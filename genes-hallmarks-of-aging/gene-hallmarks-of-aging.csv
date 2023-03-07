@@ -1,0 +1,2404 @@
+HGNC,Hallmarks of aging
+A2M,"'sterile inflammation','stem cell exhaustion'"
+AARS1,
+AASS,'accumulation of reactive oxygen species'
+ABCA5,
+ABCA8,
+ABCA9,
+ABCC4,'accumulation of reactive oxygen species'
+ABCD3,
+ABCE1,
+ABCG1,
+ABCG2,
+ABHD1,
+ABI2,
+ABLIM1,
+ABLIM2,'transcriptional alterations'
+ABO,
+ABR,
+ACAA2,'impairment of the mitochondrial integrity and biogenesis'
+ACADVL,'accumulation of reactive oxygen species'
+ACAN,"'changes in the extracellular matrix structure','degradation of proteolytic systems'"
+ACE,"'degradation of proteolytic systems','stem cell exhaustion'"
+ACE2,'degradation of proteolytic systems'
+ACF,
+ACKR2,'sterile inflammation'
+ACKR3,
+ACOT13,
+ACOT8,
+ACOT9,
+ACOX1,'accumulation of reactive oxygen species'
+ACP1,
+ACP2,
+ACRV1,
+ACSBG1,
+ACSL5,
+ACTA1,
+ACTG1,
+ACTN1,
+ACTN4,
+ACVR2A,
+ACY3,
+ADAM10,"'degradation of proteolytic systems','intercellular communication impairment','changes in the extracellular matrix structure'"
+ADAM8,"'degradation of proteolytic systems','sterile inflammation','changes in the extracellular matrix structure'"
+ADAMTS1,'degradation of proteolytic systems'
+ADAMTS20,'degradation of proteolytic systems'
+ADAMTS5,"'degradation of proteolytic systems','changes in the extracellular matrix structure'"
+ADAP1,
+ADCY1,'sterile inflammation'
+ADCY3,
+ADCY5,
+ADD3,
+ADGRE1,
+ADGRE5,"'sterile inflammation','intercellular communication impairment'"
+ADGRL1,
+ADH1A,'accumulation of reactive oxygen species'
+ADH1B,'accumulation of reactive oxygen species'
+ADIPOQ,"'changes in the extracellular matrix structure','AMPK pathway dysregulation'"
+ADIRF,
+ADK,
+ADPRS,'nuclear DNA instability'
+ADRA1A,'intercellular communication impairment'
+ADRA1B,'intercellular communication impairment'
+ADRB2,"'transcriptional alterations','AMPK pathway dysregulation'"
+AFG1L,'impairment of the mitochondrial integrity and biogenesis'
+AGER,'sterile inflammation'
+AGFG1,'nuclear architecture impairment'
+AGFG2,
+AGO2,
+AGO4,'nuclear DNA instability'
+AGPAT1,
+AGT,'intercellular communication impairment'
+AGTR1,'sterile inflammation'
+AHCYL1,
+AHCYL2,
+AHNAK,
+AHR,
+AHSA2P,
+AHSP,
+AIDA,
+AIF1,"'sterile inflammation','intercellular communication impairment'"
+AIFM1,"'accumulation of reactive oxygen species','nuclear DNA instability','intercellular communication impairment'"
+AIP,'transcriptional alterations'
+AK2,
+AKAP13,'AMPK pathway dysregulation'
+AKAP7,
+AKAP8,'nuclear DNA instability'
+AKAP9,'intercellular communication impairment'
+AKR1C2,'accumulation of reactive oxygen species'
+AKT1,"'sterile inflammation','INS/IGF-1 pathway dysregulation','impairment of the mitochondrial integrity and biogenesis','TOR pathway dysregulation','degradation of proteolytic systems'"
+AKT1S1,'TOR pathway dysregulation'
+AKT2,'INS/IGF-1 pathway dysregulation'
+AKT3,"'mitochondrial DNA instability','impairment of the mitochondrial integrity and biogenesis','TOR pathway dysregulation','senescent cells accumulation'"
+AKTIP,
+ALB,'intercellular communication impairment'
+ALDH1B1,'accumulation of reactive oxygen species'
+ALDH4A1,'accumulation of reactive oxygen species'
+ALDH6A1,'accumulation of reactive oxygen species'
+ALDH9A1,'accumulation of reactive oxygen species'
+ALKBH7,"'accumulation of reactive oxygen species','impairment of the mitochondrial integrity and biogenesis'"
+ALOX12,'accumulation of reactive oxygen species'
+ALOX5AP,"'accumulation of reactive oxygen species','sterile inflammation'"
+ALPK3,
+AMOT,
+AMOTL2,
+ANAPC5,'degradation of proteolytic systems'
+ANK2,'intercellular communication impairment'
+ANK3,
+ANKRD13C,
+ANKRD20A9P,
+ANP32B,'chromatin remodeling'
+ANXA1,"'sterile inflammation','nuclear DNA instability'"
+ANXA3,
+ANXA4,
+ANXA5,
+ANXA7,
+AOX1,'accumulation of reactive oxygen species'
+AP2B1,
+AP3S1,'INS/IGF-1 pathway dysregulation'
+AP4S1,
+APBB1,'alterations in histone modifications'
+APBB3,
+APC,"'INS/IGF-1 pathway dysregulation','degradation of proteolytic systems'"
+APEX1,"'accumulation of reactive oxygen species','nuclear DNA instability','telomere attrition'"
+API5,
+APOB,
+APOBEC3A,
+APOBEC3G,
+APOC1,
+APOC3,
+APOD,
+APOE,'intercellular communication impairment'
+APP,
+APPBP1,
+APPBP2,'degradation of proteolytic systems'
+AR,"'transcriptional alterations','intercellular communication impairment','INS/IGF-1 pathway dysregulation'"
+ARAP3,
+ARF3,
+ARFGAP2,
+ARFGEF1,
+ARFIP1,
+ARHGAP1,
+ARHGAP29,
+ARHGAP35,'intercellular communication impairment'
+ARHGAP45,
+ARHGEF18,
+ARHGEF3,
+ARHGEF5,
+ARHGEF6,
+ARHGEF7,
+ARHGEF9,
+ARIH1,'degradation of proteolytic systems'
+ARL2BP,
+ARMCX3,'impairment of the mitochondrial integrity and biogenesis'
+ARNTL,"'TOR pathway dysregulation','degradation of proteolytic systems','senescent cells accumulation'"
+ARPC5L,
+ARPP19,
+ARPP21,
+ASB12,
+ASB17,
+ASCC1,'nuclear DNA instability'
+ASCL1,
+ASF1A,"'nuclear DNA instability','chromatin remodeling'"
+ASIC2,'intercellular communication impairment'
+ASL,
+ASMTL,
+ASXL1,"'alterations in histone modifications','degradation of proteolytic systems'"
+ATF2,"'transcriptional alterations','alterations in histone modifications','impairment of the mitochondrial integrity and biogenesis','intercellular communication impairment'"
+ATG12,'impairment of the mitochondrial integrity and biogenesis'
+ATG4B,"'impairment of the mitochondrial integrity and biogenesis','degradation of proteolytic systems'"
+ATG5,"'intercellular communication impairment','impairment of the mitochondrial integrity and biogenesis'"
+ATM,"'nuclear DNA instability','alterations in histone modifications','senescent cells accumulation','TOR pathway dysregulation','telomere attrition'"
+ATOX1,
+ATP1B4,
+ATP2A2,
+ATP2B2,
+ATP5F1A,
+ATP5F1C,
+ATP5MC1,
+ATP5MC3,
+ATP5ME,
+ATP5PD,
+ATP5PF,
+ATP5PO,
+ATP6V0B,
+ATP6V1A,
+ATP6V1G2,
+ATP6V1H,
+ATP7A,"'impairment of the mitochondrial integrity and biogenesis','accumulation of reactive oxygen species','changes in the extracellular matrix structure'"
+ATPAF1,
+ATR,"'nuclear DNA instability','senescent cells accumulation','telomere attrition'"
+ATRX,"'nuclear DNA instability','alterations in DNA methylation','chromatin remodeling','transcriptional alterations'"
+ATXN2,
+AUH,
+AVL9,
+AVPI1,
+AZIN1,
+B3GALNT1,
+B3GAT1,
+B3GLCT,
+B3GNT2,
+B4GALT1,'sterile inflammation'
+B4GAT1,
+BACE2,'degradation of proteolytic systems'
+BACH2,
+BAD,"'impairment of the mitochondrial integrity and biogenesis','degradation of proteolytic systems'"
+BAK1,"'impairment of the mitochondrial integrity and biogenesis','degradation of proteolytic systems'"
+BAMBI,
+BAX,'impairment of the mitochondrial integrity and biogenesis'
+BAZ2A,"'chromatin remodeling','alterations in DNA methylation','transcriptional alterations','alterations in histone modifications'"
+BBOX1,'accumulation of reactive oxygen species'
+BCL11A,
+BCL11B,'transcriptional alterations'
+BCL2,"'impairment of the mitochondrial integrity and biogenesis','intercellular communication impairment','stem cell exhaustion','accumulation of reactive oxygen species'"
+BCL2L1,'impairment of the mitochondrial integrity and biogenesis'
+BCL3,
+BCL6,"'transcriptional alterations','sterile inflammation','alterations in histone modifications','nuclear DNA instability','senescent cells accumulation'"
+BCS1L,'impairment of the mitochondrial integrity and biogenesis'
+BDNF,
+BECN1,"'impairment of the mitochondrial integrity and biogenesis','intercellular communication impairment'"
+BEND3,"'chromatin remodeling','alterations in DNA methylation','alterations in histone modifications'"
+BEND4,
+BEX3,
+BFSP1,
+BHLHE41,
+BIK,'impairment of the mitochondrial integrity and biogenesis'
+BIN1,'nuclear architecture impairment'
+BIRC2,'degradation of proteolytic systems'
+BIRC5,
+BLM,"'nuclear DNA instability','telomere attrition'"
+BLMH,'degradation of proteolytic systems'
+BMI1,"'alterations in DNA methylation','alterations in histone modifications','stem cell exhaustion'"
+BMP5,'INS/IGF-1 pathway dysregulation'
+BNIP3,"'impairment of the mitochondrial integrity and biogenesis','accumulation of reactive oxygen species'"
+BNIP3L,'impairment of the mitochondrial integrity and biogenesis'
+BOP1,
+BPHL,
+BPIFB4,
+BRAF,'stem cell exhaustion'
+BRAP,
+BRCA1,"'nuclear DNA instability','alterations in histone modifications','alterations in DNA methylation','degradation of proteolytic systems'"
+BRCA2,"'nuclear DNA instability','telomere attrition','alterations in histone modifications','senescent cells accumulation'"
+BRD1,'alterations in histone modifications'
+BRD2,'chromatin remodeling'
+BRF2,
+BSCL2,
+BTBD9,
+BTNL2,
+BTNL3,
+BTRC,'degradation of proteolytic systems'
+BUB1B,'nuclear DNA instability'
+BUB3,
+C10orf35,
+C17orf75,
+C1QA,'intercellular communication impairment'
+C1QB,
+C1QBP,
+C1QC,
+C1QL1,
+C1S,'degradation of proteolytic systems'
+C2,'degradation of proteolytic systems'
+C3,'sterile inflammation'
+C3AR1,'sterile inflammation'
+C4A,'sterile inflammation'
+C4B,
+C5,'sterile inflammation'
+C5AR1,"'transcriptional alterations','sterile inflammation'"
+C7,
+C9orf85,
+CA14,
+CA2,
+CA3,
+CA4,
+CACNA1A,'intercellular communication impairment'
+CACNA1C,'intercellular communication impairment'
+CACNB1,'intercellular communication impairment'
+CACNB2,'intercellular communication impairment'
+CACNG1,
+CACNG4,
+CADM1,
+CADM2,
+CALB1,
+CALB2,
+CALD1,
+CALM1,
+CALM3,
+CAMK2A,'impairment of the mitochondrial integrity and biogenesis'
+CAMK2B,
+CAMK4,'sterile inflammation'
+CAMKK2,'AMPK pathway dysregulation'
+CAMTA1,'transcriptional alterations'
+CAP2,
+CAPG,'changes in the extracellular matrix structure'
+CAPN15,'degradation of proteolytic systems'
+CAPN2,'degradation of proteolytic systems'
+CAPN7,'degradation of proteolytic systems'
+CAPZA2,
+CARHSP1,
+CARS1,
+CASP1,'degradation of proteolytic systems'
+CASP10,'degradation of proteolytic systems'
+CASP2,'degradation of proteolytic systems'
+CAST,
+CAT,'accumulation of reactive oxygen species'
+CAV1,
+CAV2,"'impairment of the mitochondrial integrity and biogenesis','INS/IGF-1 pathway dysregulation'"
+CBFA2T2,'transcriptional alterations'
+CBLB,
+CBS,"'accumulation of reactive oxygen species','nuclear DNA instability','intercellular communication impairment'"
+CBX4,
+CBX5,
+CCDC88C,
+CCKBR,
+CCL5,"'sterile inflammation','intercellular communication impairment'"
+CCN4,'intercellular communication impairment'
+CCN5,'intercellular communication impairment'
+CCND1,
+CCND2,
+CCNG2,
+CCNH,'transcriptional alterations'
+CCNL2,
+CCR1,"'intercellular communication impairment','sterile inflammation'"
+CCR7,'sterile inflammation'
+CD14,'sterile inflammation'
+CD163,'sterile inflammation'
+CD244,
+CD27,
+CD28,'transcriptional alterations'
+CD2AP,'degradation of proteolytic systems'
+CD3G,
+CD44,'sterile inflammation'
+CD46,
+CD47,
+CD5,
+CD55,
+CD58,
+CD59,
+CD7,
+CD80,
+CD96,'sterile inflammation'
+CDC14B,'nuclear DNA instability'
+CDC16,'degradation of proteolytic systems'
+CDC26,'degradation of proteolytic systems'
+CDC40,
+CDC42,
+CDC42EP3,
+CDC5L,'nuclear DNA instability'
+CDH13,
+CDH22,
+CDH4,
+CDHR2,
+CDK11A,
+CDK13,
+CDK2,"'nuclear DNA instability','transcriptional alterations','alterations in histone modifications','senescent cells accumulation'"
+CDK5R1,
+CDK7,"'nuclear DNA instability','transcriptional alterations'"
+CDKN1A,"'intercellular communication impairment','senescent cells accumulation'"
+CDKN2A,
+CDKN2B,"'intercellular communication impairment','senescent cells accumulation'"
+CDKN2B-AS1,
+CDKN2C,
+CDO1,"'accumulation of reactive oxygen species','sterile inflammation'"
+CDV3,
+CDYL,
+CEACAM4,
+CEBPA,'impairment of the mitochondrial integrity and biogenesis'
+CEBPB,"'transcriptional alterations','sterile inflammation'"
+CELF1,
+CELF2,
+CELSR2,
+CENATAC,
+CENPO,'nuclear DNA instability'
+CENPU,
+CEP350,
+CEP57,
+CEP89,"'intercellular communication impairment','impairment of the mitochondrial integrity and biogenesis'"
+CERS6,'sterile inflammation'
+CERT1,'impairment of the mitochondrial integrity and biogenesis'
+CETN3,
+CETP,
+CFB,'degradation of proteolytic systems'
+CFDP1,'chromatin remodeling'
+CFH,'degradation of proteolytic systems'
+CFHR1,
+CFLAR,'degradation of proteolytic systems'
+CHAD,
+CHCHD3,'impairment of the mitochondrial integrity and biogenesis'
+CHCHD4,'accumulation of reactive oxygen species'
+CHPT1,
+CHRNA1,'intercellular communication impairment'
+CHRNA3,'intercellular communication impairment'
+CHRNA4,"'nuclear DNA instability','intercellular communication impairment'"
+CHRNA5,'intercellular communication impairment'
+CHRNA7,'intercellular communication impairment'
+CHST2,'sterile inflammation'
+CHSY1,
+CHTF18,'nuclear DNA instability'
+CILK1,
+CIRBP,
+CISD2,'impairment of the mitochondrial integrity and biogenesis'
+CITED2,'senescent cells accumulation'
+CITED4,
+CKLF,
+CKMT2,
+CLASRP,
+CLDN5,
+CLEC11A,
+CLEC2B,
+CLIC1,
+CLIC2,'accumulation of reactive oxygen species'
+CLIC4,
+CLIP1,
+CLK1,
+CLN8,'impairment of the mitochondrial integrity and biogenesis'
+CLOCK,"'alterations in histone modifications','degradation of proteolytic systems'"
+CLPX,"'impairment of proteins folding and stability','degradation of proteolytic systems'"
+CLSTN1,
+CLSTN2,
+CLTB,
+CLTC-IT1,
+CLU,"'impairment of the mitochondrial integrity and biogenesis','impairment of proteins folding and stability'"
+CMAS,
+CMC2,
+CMKLR2,
+CMTM7,
+CNIH4,
+CNOT8,'transcriptional alterations'
+CNR1,'intercellular communication impairment'
+CNTN1,
+COA1,
+COBLL1,
+COG5,
+COL1A1,"'changes in the extracellular matrix structure','intercellular communication impairment'"
+COL1A2,'changes in the extracellular matrix structure'
+COL2A1,'changes in the extracellular matrix structure'
+COL3A1,'changes in the extracellular matrix structure'
+COL4A1,'changes in the extracellular matrix structure'
+COL4A2,"'changes in the extracellular matrix structure','transcriptional alterations'"
+COL4A3,'changes in the extracellular matrix structure'
+COL4A4,'changes in the extracellular matrix structure'
+COL4A5,'changes in the extracellular matrix structure'
+COL4A6,'changes in the extracellular matrix structure'
+COMT,'intercellular communication impairment'
+COPA,
+COPS5,'degradation of proteolytic systems'
+COPS6,'degradation of proteolytic systems'
+COQ3,
+COQ7,'accumulation of reactive oxygen species'
+COX10,'impairment of the mitochondrial integrity and biogenesis'
+COX11,'accumulation of reactive oxygen species'
+COX4I1,'accumulation of reactive oxygen species'
+COX7A2,"'accumulation of reactive oxygen species','impairment of the mitochondrial integrity and biogenesis'"
+COX7A2P2,
+COX7C,
+CPD,'degradation of proteolytic systems'
+CPNE1,'degradation of proteolytic systems'
+CPNE3,
+CPSF1,
+CPSF2,
+CPSF7,
+CPT1B,
+CR2,
+CRADD,
+CREB1,'transcriptional alterations'
+CREBBP,"'transcriptional alterations','alterations in histone modifications'"
+CREBL2,'transcriptional alterations'
+CREBZF,
+CRH,"'intercellular communication impairment','sterile inflammation'"
+CRIM1,'INS/IGF-1 pathway dysregulation'
+CRKL,
+CRP,'sterile inflammation'
+CRTC3,
+CRY2,'nuclear DNA instability'
+CRYAB,
+CS,
+CSF2,
+CSMD1,
+CSNK1A1,'degradation of proteolytic systems'
+CSNK1E,'nuclear DNA instability'
+CSNK2A1,'impairment of proteins folding and stability'
+CSNK2A2,
+CSPP1,
+CSRP1,
+CSTF3,
+CTBP1,"'accumulation of reactive oxygen species','chromatin remodeling'"
+CTBS,
+CTF1,'intercellular communication impairment'
+CTGF,"'INS/IGF-1 pathway dysregulation','changes in the extracellular matrix structure','accumulation of reactive oxygen species'"
+CTH,
+CTNNA1,
+CTNNB1,"'transcriptional alterations','intercellular communication impairment','stem cell exhaustion','degradation of proteolytic systems'"
+CTNNBIP1,
+CTSA,'degradation of proteolytic systems'
+CUL4B,"'degradation of proteolytic systems','alterations in histone modifications','nuclear DNA instability'"
+CX3CL1,"'intercellular communication impairment','sterile inflammation'"
+CX3CR1,'intercellular communication impairment'
+CXCL1,'sterile inflammation'
+CXCL10,"'intercellular communication impairment','sterile inflammation'"
+CXCL12,
+CXCL14,'intercellular communication impairment'
+CXCL16,
+CXCL2,'sterile inflammation'
+CXCL5,"'intercellular communication impairment','sterile inflammation'"
+CXCL8,'sterile inflammation'
+CXCL9,"'intercellular communication impairment','sterile inflammation'"
+CXCR3,'sterile inflammation'
+CXXC1,'alterations in histone modifications'
+CYB561,'accumulation of reactive oxygen species'
+CYB5R3,'accumulation of reactive oxygen species'
+CYBB,"'accumulation of reactive oxygen species','sterile inflammation'"
+CYC1,'accumulation of reactive oxygen species'
+CYCS,"'accumulation of reactive oxygen species','degradation of proteolytic systems'"
+CYFIP1,
+CYGB,'accumulation of reactive oxygen species'
+CYP19A1,'accumulation of reactive oxygen species'
+CYP1B1,'accumulation of reactive oxygen species'
+CYP1B1-AS1,
+CYP2A6,'accumulation of reactive oxygen species'
+CYP4X1,'accumulation of reactive oxygen species'
+CYTH1,
+DAAM1,
+DAAM2,
+DAZAP1,
+DBN1,'intercellular communication impairment'
+DCHS1,
+DCK,
+DCLRE1C,"'nuclear DNA instability','telomere attrition'"
+DDIT3,"'accumulation of reactive oxygen species','degradation of proteolytic systems'"
+DDIT4,"'TOR pathway dysregulation','accumulation of reactive oxygen species'"
+DDR1,
+DDT,
+DDX11,'nuclear DNA instability'
+DDX12P,
+DDX17,
+DDX23,'chromatin remodeling'
+DDX24,
+DDX3X,'nuclear DNA instability'
+DDX42,
+DDX55,
+DEAF1,'transcriptional alterations'
+DECR1,'accumulation of reactive oxygen species'
+DEDD,
+DEFA1,
+DERL1,'degradation of proteolytic systems'
+DEXI,
+DFFB,'nuclear DNA instability'
+DGAT1,
+DGCR8,
+DGKA,
+DGKZ,
+DHFR,'accumulation of reactive oxygen species'
+DHFRP3,
+DHRS3,'accumulation of reactive oxygen species'
+DHX15,
+DHX9,"'sterile inflammation','nuclear DNA instability'"
+DICER1,'nuclear DNA instability'
+DIDO1,'transcriptional alterations'
+DIMT1,
+DIS3,
+DIXDC1,
+DKK3,
+DLAT,'accumulation of reactive oxygen species'
+DLD,"'accumulation of reactive oxygen species','degradation of proteolytic systems'"
+DLEU1,
+DLG1,'intercellular communication impairment'
+DLK2,
+DMD,
+DMRT2,
+DNAJA2,
+DNAJC7,'impairment of proteins folding and stability'
+DNASE1L1,
+DNM1L,'impairment of the mitochondrial integrity and biogenesis'
+DNPH1,
+DNTTIP2,
+DPEP2,'degradation of proteolytic systems'
+DPF2,"'chromatin remodeling','transcriptional alterations'"
+DPH5,
+DPYD,'accumulation of reactive oxygen species'
+DPYSL3,
+DPYSL5,
+DRD2,'intercellular communication impairment'
+DRD4,'intercellular communication impairment'
+DSC1,
+DSC2,'intercellular communication impairment'
+DTNBP1,
+DUSP10,
+DUSP13,
+DUSP19,
+DUSP2,
+DUSP4,
+DUSP5,
+DUSP6,
+DUT,
+DVL2,
+DYNC1H1,
+DYNC1I1,
+DYRK1A,'alterations in histone modifications'
+DYRK2,
+DYRK4,
+DZIP3,
+E2F1,'transcriptional alterations'
+E2F4,
+EBF1,
+EBNA1BP2,
+ECE1,'degradation of proteolytic systems'
+ECHDC1,
+ECHDC2,
+ECI2,
+ECM2,
+ECPAS,'degradation of proteolytic systems'
+ECSIT,
+EDAR,
+EDEM3,
+EEF1A1,
+EEF1E1,'senescent cells accumulation'
+EEF2,
+EEF2K,
+EFCAB7,
+EFEMP1,'changes in the extracellular matrix structure'
+EFEMP2,'changes in the extracellular matrix structure'
+EFS,
+EFTUD2,
+EGFL6,
+EGFR,
+EGLN1,'accumulation of reactive oxygen species'
+EGR1,
+EGR2,
+EGR3,'intercellular communication impairment'
+EHD3,
+EHMT1,"'alterations in DNA methylation','chromatin remodeling','alterations in histone modifications'"
+EIF3M,
+EIF4A1,
+EIF4B,
+EIF4EBP1,'TOR pathway dysregulation'
+EIF4G3,
+EIF4H,
+EIF5A,
+EIF5A2,
+ELAVL1,
+ELF2,
+ELL2,'transcriptional alterations'
+ELMO1,
+ELMO3,
+ELN,'changes in the extracellular matrix structure'
+ELOVL5,
+EML4,
+ENPP5,'intercellular communication impairment'
+ENSA,
+ENTPD3,
+EP300,"'transcriptional alterations','alterations in histone modifications','chromatin remodeling'"
+EP400,"'chromatin remodeling','alterations in histone modifications','nuclear DNA instability'"
+EPB41,
+EPB41L2,
+EPB41L3,
+EPC1,"'nuclear DNA instability','transcriptional alterations','alterations in histone modifications'"
+EPHA6,
+EPHX2,
+EPM2A,
+EPOR,
+EPS8,
+ERAP2,'degradation of proteolytic systems'
+ERBB2,
+ERBB3,
+ERCC1,"'nuclear DNA instability','telomere attrition','senescent cells accumulation'"
+ERCC2,"'nuclear DNA instability','transcriptional alterations','stem cell exhaustion'"
+ERCC3,"'nuclear DNA instability','transcriptional alterations'"
+ERCC4,"'nuclear DNA instability','telomere attrition'"
+ERCC5,'nuclear DNA instability'
+ERCC6,
+ERCC8,"'nuclear DNA instability','degradation of proteolytic systems'"
+ERGIC3,
+ERP27,
+ESR1,"'chromatin remodeling','transcriptional alterations','stem cell exhaustion'"
+ESR2,'intercellular communication impairment'
+ETF1,
+ETFDH,'accumulation of reactive oxygen species'
+ETNK1,
+ETNPPL,
+ETS2,
+ETV6,
+EWSR1,'transcriptional alterations'
+EXO1,'nuclear DNA instability'
+EXOC3L2,
+EXOC5,
+EXOC7,
+EXOSC10,
+EXOSC2,
+EXOSC8,
+EYA1,"'nuclear DNA instability','alterations in histone modifications'"
+EZH2,"'alterations in DNA methylation','chromatin remodeling','stem cell exhaustion','intercellular communication impairment','alterations in histone modifications'"
+F13A1,
+FAAH,
+FABP3,
+FADS1,"'accumulation of reactive oxygen species','intercellular communication impairment'"
+FAM107A,'intercellular communication impairment'
+FAM13A,
+FAM162A,
+FAM210A,
+FANCC,"'nuclear DNA instability','accumulation of reactive oxygen species','stem cell exhaustion'"
+FANCG,"'nuclear DNA instability','impairment of the mitochondrial integrity and biogenesis'"
+FANCL,'nuclear DNA instability'
+FAS,'intercellular communication impairment'
+FASTK,'impairment of the mitochondrial integrity and biogenesis'
+FAXDC2,'accumulation of reactive oxygen species'
+FBLN1,'changes in the extracellular matrix structure'
+FBLN5,'changes in the extracellular matrix structure'
+FBN1,'changes in the extracellular matrix structure'
+FBN2,'changes in the extracellular matrix structure'
+FBXL4,"'impairment of the mitochondrial integrity and biogenesis','degradation of proteolytic systems'"
+FBXO21,'degradation of proteolytic systems'
+FBXO22,"'degradation of proteolytic systems','intercellular communication impairment'"
+FBXW11,'degradation of proteolytic systems'
+FCER1A,
+FCER1G,
+FCGBP,
+FCGR1A,'sterile inflammation'
+FCGR2A,
+FCGR3B,
+FCGRT,
+FCMR,
+FDXR,'accumulation of reactive oxygen species'
+FEN1,"'nuclear DNA instability','telomere attrition'"
+FERMT2,
+FES,'intercellular communication impairment'
+FEZ1,'impairment of the mitochondrial integrity and biogenesis'
+FEZ2,
+FGF1,
+FGF12,'intercellular communication impairment'
+FGF13,'intercellular communication impairment'
+FGF2,"'transcriptional alterations','intercellular communication impairment'"
+FGF21,'intercellular communication impairment'
+FGF23,'intercellular communication impairment'
+FGFR1,
+FGFR2,"'intercellular communication impairment','stem cell exhaustion'"
+FGFR3,'intercellular communication impairment'
+FH,'nuclear DNA instability'
+FHOD1,
+FJX1,'intercellular communication impairment'
+FKBP14,
+FKBP1A,'impairment of proteins folding and stability'
+FKBP5,'impairment of proteins folding and stability'
+FLI1,
+FLJ22555,'impairment of the mitochondrial integrity and biogenesis'
+FLNA,
+FLNB,
+FLOT1,'changes in the extracellular matrix structure'
+FLOT2,
+FLRT3,
+FLT1,
+FLT3LG,
+FLVCR2,
+FN1,"'changes in the extracellular matrix structure','sterile inflammation'"
+FN3KRP,
+FNTA,
+FOLH1,'degradation of proteolytic systems'
+FOLH1B,'degradation of proteolytic systems'
+FOLR1,'intercellular communication impairment'
+FOLR2,"'sterile inflammation','intercellular communication impairment'"
+FOS,"'alterations in DNA methylation','transcriptional alterations','sterile inflammation','intercellular communication impairment'"
+FOSL2,
+FOXC1,
+FOXG1,
+FOXJ3,
+FOXM1,'nuclear DNA instability'
+FOXN3,
+FOXO1,"'INS/IGF-1 pathway dysregulation','intercellular communication impairment','stem cell exhaustion'"
+FOXO3,"'transcriptional alterations','impairment of the mitochondrial integrity and biogenesis','intercellular communication impairment','stem cell exhaustion'"
+FOXO4,"'INS/IGF-1 pathway dysregulation','stem cell exhaustion'"
+FPGT-TNNI3K,'intercellular communication impairment'
+FRK,
+FRMPD4,
+FRY,
+FRZB,'stem cell exhaustion'
+FSHR,
+FST,
+FSTL5,
+FTH1P5,
+FTL,
+FUBP3,'transcriptional alterations'
+FUNDC2,'impairment of the mitochondrial integrity and biogenesis'
+FURIN,"'degradation of proteolytic systems','changes in the extracellular matrix structure'"
+FUS,'transcriptional alterations'
+FUT6,
+FXN,"'accumulation of reactive oxygen species','impairment of the mitochondrial integrity and biogenesis','degradation of proteolytic systems'"
+FXR1,
+FXYD5,
+FYN,
+FZD2,
+FZD3,
+FZD7,'stem cell exhaustion'
+FZD8,
+FZR1,"'nuclear DNA instability','degradation of proteolytic systems','senescent cells accumulation'"
+G3BP1,'nuclear DNA instability'
+G3BP2,
+G6PD,'accumulation of reactive oxygen species'
+GABPA,
+GABRB3,'intercellular communication impairment'
+GABRD,'intercellular communication impairment'
+GAD1,'intercellular communication impairment'
+GADD45A,'nuclear DNA instability'
+GADD45G,
+GAL3ST4,'intercellular communication impairment'
+GALK2,
+GALNT7,
+GAPVD1,
+GART,
+GATAD1,'chromatin remodeling'
+GATM,
+GCLC,"'accumulation of reactive oxygen species','impairment of the mitochondrial integrity and biogenesis'"
+GCLM,'impairment of the mitochondrial integrity and biogenesis'
+GCN1,'intercellular communication impairment'
+GDA,
+GDE1,
+GDF1,
+GDF11,
+GDF15,'intercellular communication impairment'
+GDI2,
+GET4,'degradation of proteolytic systems'
+GFAP,
+GFPT1,
+GFRA2,
+GGA2,
+GGA3,
+GGH,
+GGT1,'degradation of proteolytic systems'
+GGT7,
+GH1,'INS/IGF-1 pathway dysregulation'
+GHR,'INS/IGF-1 pathway dysregulation'
+GHRH,"'intercellular communication impairment','INS/IGF-1 pathway dysregulation'"
+GHRHR,'INS/IGF-1 pathway dysregulation'
+GHRL,
+GHSR,'INS/IGF-1 pathway dysregulation'
+GIPC1,'intercellular communication impairment'
+GIT2,
+GJA1,'intercellular communication impairment'
+GLE1,
+GLG1,'degradation of proteolytic systems'
+GLO1,
+GLRX,'accumulation of reactive oxygen species'
+GLRX2,"'accumulation of reactive oxygen species','nuclear DNA instability','intercellular communication impairment'"
+GLRX3,'accumulation of reactive oxygen species'
+GLUD1,'accumulation of reactive oxygen species'
+GLYR1,'accumulation of reactive oxygen species'
+GMFB,
+GNA11,
+GNA12,'TOR pathway dysregulation'
+GNA13,
+GNAQ,
+GNB5,
+GNE,
+GNG11,
+GNG12,
+GNPNAT1,
+GNPTG,
+GOLGA4,
+GOLGB1,
+GORASP2,
+GOSR2,
+GOT2,
+GP5,
+GPC4,
+GPC5,
+GPCPD1,
+GPR137B,'TOR pathway dysregulation'
+GPRC5B,
+GPX1,'accumulation of reactive oxygen species'
+GPX4,'accumulation of reactive oxygen species'
+GRAMD2B,
+GRAP2,'intercellular communication impairment'
+GRHPR,'accumulation of reactive oxygen species'
+GRIA1,'intercellular communication impairment'
+GRIK2,'intercellular communication impairment'
+GRIN2A,"'intercellular communication impairment','degradation of proteolytic systems'"
+GRK2,
+GRK5,
+GRN,
+GRSF1,
+GSK3A,"'INS/IGF-1 pathway dysregulation','TOR pathway dysregulation','degradation of proteolytic systems','alterations in DNA methylation','impairment of the mitochondrial integrity and biogenesis'"
+GSK3B,"'degradation of proteolytic systems','impairment of the mitochondrial integrity and biogenesis','INS/IGF-1 pathway dysregulation'"
+GSN,'changes in the extracellular matrix structure'
+GSPT1,
+GSR,'accumulation of reactive oxygen species'
+GSS,
+GSTA4,
+GSTP1,'accumulation of reactive oxygen species'
+GSTZ1,'accumulation of reactive oxygen species'
+GUSBP1,
+GYG1,
+GYPC,
+H1-10,"'chromatin remodeling','nuclear DNA instability'"
+H2AC6,
+H3-3B,"'chromatin remodeling','nuclear DNA instability'"
+H4C3,"'chromatin remodeling','nuclear DNA instability'"
+HABP4,'nuclear architecture impairment'
+HADHA,'accumulation of reactive oxygen species'
+HAUS7,
+HBA1,'accumulation of reactive oxygen species'
+HBA2,'accumulation of reactive oxygen species'
+HBB,'accumulation of reactive oxygen species'
+HBP1,
+HCCS,
+HCRTR2,'intercellular communication impairment'
+HDAC1,"'chromatin remodeling','alterations in histone modifications'"
+HDAC2,"'chromatin remodeling','alterations in histone modifications'"
+HDAC3,"'transcriptional alterations','TOR pathway dysregulation','alterations in histone modifications'"
+HDAC4,"'chromatin remodeling','sterile inflammation','alterations in histone modifications'"
+HDAC5,"'chromatin remodeling','sterile inflammation','alterations in histone modifications'"
+HDAC9,"'sterile inflammation','alterations in histone modifications'"
+HEBP2,'impairment of the mitochondrial integrity and biogenesis'
+HELLS,"'chromatin remodeling','alterations in DNA methylation'"
+HEPH,'accumulation of reactive oxygen species'
+HERC1,
+HERC2P2,
+HERC3,'degradation of proteolytic systems'
+HERC4,'degradation of proteolytic systems'
+HERC6,'degradation of proteolytic systems'
+HGH1,
+HGS,
+HIBADH,'accumulation of reactive oxygen species'
+HIBCH,
+HIC1,
+HIF1A,'TOR pathway dysregulation'
+HILPDA,'intercellular communication impairment'
+HINFP,"'nuclear DNA instability','transcriptional alterations'"
+HIPK3,'transcriptional alterations'
+HLA-B,
+HLA-C,
+HLA-DMA,
+HLA-DMB,
+HLA-DOA,
+HLA-DPA1,
+HLA-DPB1,
+HLA-DQA1,
+HLA-DQB1,
+HLA-DRA,
+HLA-DRB1,'sterile inflammation'
+HLA-DRB3,
+HLA-DRB4,
+HLA-DRB5,
+HLA-DRB6,
+HLA-E,
+HLA-F,
+HLA-G,'senescent cells accumulation'
+HMBS,
+HMGB1,"'sterile inflammation','nuclear DNA instability','chromatin remodeling'"
+HMGB2,"'sterile inflammation','nuclear DNA instability','chromatin remodeling','nuclear architecture impairment'"
+HMGN2,
+HMGXB4,
+HMOX2,'accumulation of reactive oxygen species'
+HNF4A,'transcriptional alterations'
+HNF4G,
+HNRNPA1,'intercellular communication impairment'
+HNRNPAB,
+HNRNPC,'chromatin remodeling'
+HNRNPD,
+HNRNPH2,
+HNRNPH3,
+HNRNPK,
+HNRNPL,'intercellular communication impairment'
+HNRNPM,
+HNRNPR,
+HNRNPU,
+HOPX,'alterations in histone modifications'
+HOXB2,
+HOXB7,
+HOXC4,
+HP,"'sterile inflammation','degradation of proteolytic systems'"
+HPCAL1,
+HPGD,'accumulation of reactive oxygen species'
+HPN,"'degradation of proteolytic systems','changes in the extracellular matrix structure'"
+HPRT1,
+HRAS,"'INS/IGF-1 pathway dysregulation','senescent cells accumulation'"
+HSD11B1,'accumulation of reactive oxygen species'
+HSD17B6,'accumulation of reactive oxygen species'
+HSD17B7,'accumulation of reactive oxygen species'
+HSF1,"'nuclear DNA instability','transcriptional alterations'"
+HSF2,
+HSP90AA1,"'impairment of proteins folding and stability','nuclear DNA instability','telomere attrition','impairment of the mitochondrial integrity and biogenesis'"
+HSP90AB1,"'impairment of proteins folding and stability','nuclear DNA instability','telomere attrition'"
+HSP90B1,"'impairment of proteins folding and stability','degradation of proteolytic systems'"
+HSPA13,'impairment of proteins folding and stability'
+HSPA14,'impairment of proteins folding and stability'
+HSPA1A,
+HSPA1B,
+HSPA2,"'impairment of proteins folding and stability','nuclear DNA instability'"
+HSPA8,"'impairment of proteins folding and stability','intercellular communication impairment'"
+HSPA9,"'impairment of proteins folding and stability','impairment of the mitochondrial integrity and biogenesis'"
+HSPB8,
+HSPD1,"'impairment of proteins folding and stability','impairment of the mitochondrial integrity and biogenesis'"
+HTATSF1,
+HTR1B,'intercellular communication impairment'
+HTR2A,'intercellular communication impairment'
+HTR3B,'intercellular communication impairment'
+HTRA1,'degradation of proteolytic systems'
+HTRA2,"'degradation of proteolytic systems','impairment of the mitochondrial integrity and biogenesis'"
+HTT,
+HYI,
+HYKK,
+HYPK,'impairment of proteins folding and stability'
+ICAM1,
+ICAM2,
+ID2,'senescent cells accumulation'
+IDE,"'degradation of proteolytic systems','INS/IGF-1 pathway dysregulation'"
+IDH1,'accumulation of reactive oxygen species'
+IDH3A,'accumulation of reactive oxygen species'
+IDS,
+IFI16,"'sterile inflammation','intercellular communication impairment','degradation of proteolytic systems'"
+IFNAR1,
+IFNG,'sterile inflammation'
+IGBP1,
+IGF1,'INS/IGF-1 pathway dysregulation'
+IGF1R,"'INS/IGF-1 pathway dysregulation','intercellular communication impairment','senescent cells accumulation'"
+IGF2,'INS/IGF-1 pathway dysregulation'
+IGF2R,'INS/IGF-1 pathway dysregulation'
+IGFBP2,'INS/IGF-1 pathway dysregulation'
+IGFBP3,'INS/IGF-1 pathway dysregulation'
+IGFBP4,"'sterile inflammation','INS/IGF-1 pathway dysregulation'"
+IGFBP5,'INS/IGF-1 pathway dysregulation'
+IGFBP6,'INS/IGF-1 pathway dysregulation'
+IKBKB,'sterile inflammation'
+IKZF1,
+IL15,"'sterile inflammation','intercellular communication impairment'"
+IL15RA,
+IL16,
+IL17RC,'sterile inflammation'
+IL18,"'sterile inflammation','intercellular communication impairment'"
+IL1B,"'sterile inflammation','intercellular communication impairment'"
+IL1RN,'sterile inflammation'
+IL2,"'transcriptional alterations','intercellular communication impairment'"
+IL33,
+IL6,'sterile inflammation'
+IL6ST,
+IL7,'intercellular communication impairment'
+IL7R,
+ILF2,
+IMMT,'impairment of the mitochondrial integrity and biogenesis'
+IMPG1,'changes in the extracellular matrix structure'
+ING1,
+ING2,"'stem cell exhaustion','senescent cells accumulation'"
+INHBB,'intercellular communication impairment'
+INPP1,
+INPP4A,
+INPP4B,
+INPP5K,
+INS,"'INS/IGF-1 pathway dysregulation','sterile inflammation','intercellular communication impairment'"
+INSR,'INS/IGF-1 pathway dysregulation'
+INVS,
+IP6K3,
+IQGAP1,
+IRAG2,'nuclear architecture impairment'
+IRF7,
+IRS1,'INS/IGF-1 pathway dysregulation'
+IRS2,'INS/IGF-1 pathway dysregulation'
+ISCA1,
+ITCH,"'degradation of proteolytic systems','sterile inflammation'"
+ITGA2,
+ITGA3,
+ITGA4,
+ITGA6,'INS/IGF-1 pathway dysregulation'
+ITGAE,
+ITGAV,'INS/IGF-1 pathway dysregulation'
+ITGB1,"'sterile inflammation','stem cell exhaustion'"
+ITGB1BP2,
+ITGB2,"'sterile inflammation','intercellular communication impairment'"
+ITGB3,'INS/IGF-1 pathway dysregulation'
+ITK,
+ITM2A,
+ITM2B,
+ITPKA,
+ITPKB,
+ITPR2,
+ITPRID2,
+JAK1,
+JAK2,"'transcriptional alterations','alterations in histone modifications'"
+JMJD1A,"'accumulation of reactive oxygen species','transcriptional alterations','nuclear architecture impairment','alterations in histone modifications'"
+JUN,
+JUND,'transcriptional alterations'
+KALRN,
+KATNB1,
+KAZALD1,'INS/IGF-1 pathway dysregulation'
+KBTBD6,'degradation of proteolytic systems'
+KCNA3,
+KCNA5,
+KCNJ16,
+KCNJ9,
+KCNK17,
+KCNK3,'intercellular communication impairment'
+KCNK4,
+KCNT2,
+KDM1A,"'alterations in histone modifications','accumulation of reactive oxygen species','nuclear DNA instability'"
+KDM2A,"'alterations in histone modifications','accumulation of reactive oxygen species','nuclear DNA instability','transcriptional alterations'"
+KDM3B,"'accumulation of reactive oxygen species','transcriptional alterations','alterations in histone modifications'"
+KDM5B,"'accumulation of reactive oxygen species','alterations in histone modifications','chromatin remodeling'"
+KDM6B,"'accumulation of reactive oxygen species','chromatin remodeling','sterile inflammation','alterations in histone modifications'"
+KDM7A,"'accumulation of reactive oxygen species','transcriptional alterations','alterations in histone modifications'"
+KDR,
+KDSR,'accumulation of reactive oxygen species'
+KHDRBS1,
+KIAA1143,
+KIAA1217,
+KIF13B,
+KIF1B,'intercellular communication impairment'
+KIF2A,
+KIF2C,
+KIF3B,
+KIF5B,
+KIR3DX1,
+KL,"'sterile inflammation','INS/IGF-1 pathway dysregulation'"
+KLC1,
+KLF13,'transcriptional alterations'
+KLF3,
+KLF4,"'transcriptional alterations','stem cell exhaustion'"
+KLF5,'intercellular communication impairment'
+KLF6,
+KLF7,
+KLF9,
+KLRD1,
+KLRF1,
+KPNA4,
+KPNA5,
+KRAS,'intercellular communication impairment'
+KRT1,
+KRT10,
+KTN1,
+LACTB,'degradation of proteolytic systems'
+LAIR1,
+LAMA2,'changes in the extracellular matrix structure'
+LAMA3,'changes in the extracellular matrix structure'
+LAMA4,'changes in the extracellular matrix structure'
+LAMA5,'changes in the extracellular matrix structure'
+LAMB1,'changes in the extracellular matrix structure'
+LAMB2,'changes in the extracellular matrix structure'
+LAMB3,'changes in the extracellular matrix structure'
+LAMC2,'changes in the extracellular matrix structure'
+LAMP2,'intercellular communication impairment'
+LAMTOR2,'TOR pathway dysregulation'
+LAMTOR5,'TOR pathway dysregulation'
+LBH,
+LCK,
+LDLR,
+LDLRAP1,
+LEF1,"'transcriptional alterations','alterations in histone modifications'"
+LEP,"'TOR pathway dysregulation','intercellular communication impairment'"
+LEPR,
+LGALS1,
+LGI1,
+LGI4,
+LGR5,
+LGTN,
+LIMCH1,
+LIMK2,
+LINS1,
+LIPT1,
+LITAF,
+LMAN1,
+LMNA,"'senescent cells accumulation','nuclear DNA instability','chromatin remodeling','nuclear architecture impairment'"
+LMNB1,"'nuclear architecture impairment','chromatin remodeling'"
+LNPEP,"'intercellular communication impairment','degradation of proteolytic systems'"
+LNPK,
+LOC105369165,
+LOC105377989,
+LOC105377992,
+LOC107985852,
+LONP1,"'mitochondrial DNA instability','impairment of the mitochondrial integrity and biogenesis','degradation of proteolytic systems'"
+LOX,"'accumulation of reactive oxygen species','changes in the extracellular matrix structure'"
+LOXL4,'accumulation of reactive oxygen species'
+LPA,'degradation of proteolytic systems'
+LPAR6,
+LPIN1,'nuclear architecture impairment'
+LPP,
+LRP1B,
+LRP2,'INS/IGF-1 pathway dysregulation'
+LRP4,
+LRP8,"'degradation of proteolytic systems','intercellular communication impairment'"
+LRRFIP1,
+LSM10,
+LSM2,
+LSM4,
+LSS,
+LST1,
+LTBP1,'changes in the extracellular matrix structure'
+LTBP2,'changes in the extracellular matrix structure'
+LY6G5C,
+LY6G6F,
+LYPLA1,
+LYVE1,
+MACF1,
+MAD1L1,
+MADD,
+MAF,'transcriptional alterations'
+MAFF,
+MAFG,
+MAGED1,
+MAGED2,
+MAGI3,
+MAL,
+MAN1A2,
+MAN1C1,
+MAN2A1,'impairment of the mitochondrial integrity and biogenesis'
+MAOA,'accumulation of reactive oxygen species'
+MAP1B,
+MAP2K4,'senescent cells accumulation'
+MAP3K2,
+MAP3K5,"'intercellular communication impairment','senescent cells accumulation'"
+MAP3K7,'alterations in histone modifications'
+MAP3K7CL,
+MAP3K8,
+MAP3K9,
+MAP4,
+MAP4K1,
+MAP4K3,
+MAPK1,"'intercellular communication impairment','INS/IGF-1 pathway dysregulation'"
+MAPK10,'senescent cells accumulation'
+MAPK14,"'transcriptional alterations','stem cell exhaustion','senescent cells accumulation'"
+MAPK3,"'transcriptional alterations','INS/IGF-1 pathway dysregulation','intercellular communication impairment'"
+MAPK4,
+MAPK8,"'intercellular communication impairment','senescent cells accumulation','impairment of the mitochondrial integrity and biogenesis'"
+MAPK8IP3,
+MAPK9,'senescent cells accumulation'
+MAPKAP1,"'intercellular communication impairment','TOR pathway dysregulation'"
+MAPRE2,
+MAPT,"'intercellular communication impairment','impairment of the mitochondrial integrity and biogenesis'"
+MARK1,
+MAT2A,
+MATR3,
+MAX,'intercellular communication impairment'
+MBD4,'nuclear DNA instability'
+MBNL1,
+MBNL2,
+MBOAT1,
+MBP,'intercellular communication impairment'
+MC2R,
+MC4R,
+MCL1,
+MCM4,'nuclear DNA instability'
+MCM7,'nuclear DNA instability'
+MCTS1,
+MDC1,'nuclear DNA instability'
+MDH2,'accumulation of reactive oxygen species'
+MDM2,'degradation of proteolytic systems'
+ME1,'accumulation of reactive oxygen species'
+ME3,'accumulation of reactive oxygen species'
+MED16,'transcriptional alterations'
+MED21,'stem cell exhaustion'
+MED28,'stem cell exhaustion'
+MEGF8,
+METTL1,
+MFAP3L,
+MFHAS1,'sterile inflammation'
+MGAT4A,
+MGAT5,
+MGP,'changes in the extracellular matrix structure'
+MGST1,'accumulation of reactive oxygen species'
+MGST2,'accumulation of reactive oxygen species'
+MICA,
+MICB,
+MICOS13,'impairment of the mitochondrial integrity and biogenesis'
+MID1IP1,
+MID2,
+MIER2,'alterations in histone modifications'
+MIF,"'sterile inflammation','senescent cells accumulation'"
+MIPEP,'degradation of proteolytic systems'
+MIR3156-3,
+MKKS,
+MKRN1,
+MLC1,
+MLF1,'transcriptional alterations'
+MLH1,'nuclear DNA instability'
+MLH3,'nuclear DNA instability'
+MLXIP,
+MMP1,"'degradation of proteolytic systems','changes in the extracellular matrix structure'"
+MMP12,"'degradation of proteolytic systems','changes in the extracellular matrix structure'"
+MMP13,"'degradation of proteolytic systems','changes in the extracellular matrix structure'"
+MMP14,"'degradation of proteolytic systems','changes in the extracellular matrix structure'"
+MMP16,'degradation of proteolytic systems'
+MMP17,'degradation of proteolytic systems'
+MMP2,"'degradation of proteolytic systems','changes in the extracellular matrix structure'"
+MMP20,"'degradation of proteolytic systems','changes in the extracellular matrix structure'"
+MMP25,"'degradation of proteolytic systems','sterile inflammation'"
+MMP27,'degradation of proteolytic systems'
+MMP3,"'degradation of proteolytic systems','changes in the extracellular matrix structure'"
+MMP7,"'degradation of proteolytic systems','changes in the extracellular matrix structure'"
+MMP9,"'degradation of proteolytic systems','changes in the extracellular matrix structure'"
+MOCS2,
+MORF4,
+MORF4L2,"'nuclear DNA instability','alterations in histone modifications'"
+MOSPD1,
+MPC1,
+MPHOSPH8,'alterations in DNA methylation'
+MPZL2,
+MR1,
+MRC1,
+MRE11,"'nuclear DNA instability','telomere attrition'"
+MRPL12,"'transcriptional alterations','impairment of the mitochondrial integrity and biogenesis'"
+MRPL13,'impairment of the mitochondrial integrity and biogenesis'
+MRPL15,'impairment of the mitochondrial integrity and biogenesis'
+MRPL28,'impairment of the mitochondrial integrity and biogenesis'
+MRPL30,'impairment of the mitochondrial integrity and biogenesis'
+MRPL34,'impairment of the mitochondrial integrity and biogenesis'
+MRPL35,'impairment of the mitochondrial integrity and biogenesis'
+MRPL40,'impairment of the mitochondrial integrity and biogenesis'
+MRPL41,'impairment of the mitochondrial integrity and biogenesis'
+MRPL42,'impairment of the mitochondrial integrity and biogenesis'
+MRPL48,'impairment of the mitochondrial integrity and biogenesis'
+MRPL49,'impairment of the mitochondrial integrity and biogenesis'
+MRPS12,'impairment of the mitochondrial integrity and biogenesis'
+MRPS16,'impairment of the mitochondrial integrity and biogenesis'
+MRPS18B,'impairment of the mitochondrial integrity and biogenesis'
+MRPS24,'impairment of the mitochondrial integrity and biogenesis'
+MRPS25,'impairment of the mitochondrial integrity and biogenesis'
+MRPS28,'impairment of the mitochondrial integrity and biogenesis'
+MRPS33,'impairment of the mitochondrial integrity and biogenesis'
+MRPS5,'impairment of the mitochondrial integrity and biogenesis'
+MSH2,'nuclear DNA instability'
+MSH5,'nuclear DNA instability'
+MSH6,'nuclear DNA instability'
+MSN,
+MSRA,'accumulation of reactive oxygen species'
+MSRB2,'accumulation of reactive oxygen species'
+MSTN,
+MT-ATP6,
+MT-CO1,'accumulation of reactive oxygen species'
+MT-CYB,'accumulation of reactive oxygen species'
+MT-ND4,'accumulation of reactive oxygen species'
+MT-RNR1,
+MT-RNR2,
+MT1E,
+MT1G,
+MT1L,
+MT1X,
+MT2A,
+MTA2,"'alterations in DNA methylation','chromatin remodeling','transcriptional alterations','alterations in histone modifications'"
+MTBP,
+MTFP1,'impairment of the mitochondrial integrity and biogenesis'
+MTHFD1,'accumulation of reactive oxygen species'
+MTHFR,"'chromatin remodeling','accumulation of reactive oxygen species'"
+MTIF2,
+MTIF3,
+MTMR2,
+MTMR4,
+MTO1,'impairment of the mitochondrial integrity and biogenesis'
+MTOR,"'sterile inflammation','intercellular communication impairment','TOR pathway dysregulation'"
+MTR,
+MTRR,"'accumulation of reactive oxygen species','alterations in DNA methylation'"
+MTSS1,
+MTTP,
+MTUS1,
+MTX2,'impairment of the mitochondrial integrity and biogenesis'
+MXD1,
+MXI1,
+MXRA8,
+MYBL1,
+MYC,"'chromatin remodeling','nuclear DNA instability','alterations in DNA methylation'"
+MYD88,
+MYH8,
+MYL10,
+MYL12A,
+MYO10,
+MYO18A,
+MYO6,'nuclear DNA instability'
+MYOF,
+MZF1,
+NAA38,
+NABP2,'nuclear DNA instability'
+NAMPT,"'INS/IGF-1 pathway dysregulation','intercellular communication impairment'"
+NAP1L1,'chromatin remodeling'
+NAP1L2,"'alterations in histone modifications','chromatin remodeling'"
+NAPA,'intercellular communication impairment'
+NAPB,'intercellular communication impairment'
+NAPG,
+NBN,"'nuclear DNA instability','telomere attrition'"
+NBR1,
+NCAM2,
+NCBP2AS2,
+NCF4,'accumulation of reactive oxygen species'
+NCK1,
+NCOA2,'transcriptional alterations'
+NCOA3,'alterations in histone modifications'
+NCOR2,
+NDC1,"'nuclear DNA instability','nuclear architecture impairment'"
+NDEL1,"'INS/IGF-1 pathway dysregulation','nuclear architecture impairment'"
+NDFIP1,'degradation of proteolytic systems'
+NDST1,'sterile inflammation'
+NDUFA9,'accumulation of reactive oxygen species'
+NDUFAF7,
+NDUFB10,'accumulation of reactive oxygen species'
+NDUFB3,'accumulation of reactive oxygen species'
+NDUFB8,'accumulation of reactive oxygen species'
+NDUFS2,"'accumulation of reactive oxygen species','impairment of the mitochondrial integrity and biogenesis'"
+NDUFS3,'accumulation of reactive oxygen species'
+NDUFS4,'accumulation of reactive oxygen species'
+NDUFS5,'accumulation of reactive oxygen species'
+NDUFV3,"'accumulation of reactive oxygen species','impairment of the mitochondrial integrity and biogenesis'"
+NEBL,
+NECAB3,
+NECTIN2,"'nuclear architecture impairment','impairment of the mitochondrial integrity and biogenesis'"
+NECTIN3,
+NEDD4,'degradation of proteolytic systems'
+NEK11,
+NEK7,
+NEK9,
+NELL2,
+NEU1,
+NF1,'intercellular communication impairment'
+NFATC2,'transcriptional alterations'
+NFATC3,'sterile inflammation'
+NFE2L1,
+NFE2L2,"'sterile inflammation','degradation of proteolytic systems','intercellular communication impairment','accumulation of reactive oxygen species'"
+NFKB1,"'transcriptional alterations','sterile inflammation'"
+NFKB2,
+NFKBIA,
+NFX1,"'transcriptional alterations','sterile inflammation'"
+NFYA,"'transcriptional alterations','alterations in histone modifications'"
+NFYB,'alterations in histone modifications'
+NFYC,'alterations in histone modifications'
+NGB,
+NGF,
+NGFR,
+NHLRC1,'degradation of proteolytic systems'
+NIPBL,"'nuclear DNA instability','stem cell exhaustion'"
+NIPSNAP1,
+NIPSNAP3B,
+NISCH,
+NKTR,
+NKX2-2,
+NKX3-1,'INS/IGF-1 pathway dysregulation'
+NLRC5,
+NLRP1,"'sterile inflammation','degradation of proteolytic systems'"
+NLRP3,'sterile inflammation'
+NMB,'intercellular communication impairment'
+NME1,
+NME2,
+NME3,
+NNMT,
+NNT,'accumulation of reactive oxygen species'
+NOG,'stem cell exhaustion'
+NOP56,
+NOS1,"'accumulation of reactive oxygen species','intercellular communication impairment'"
+NOS1AP,
+NOS3,"'accumulation of reactive oxygen species','impairment of the mitochondrial integrity and biogenesis'"
+NOTCH1,"'sterile inflammation','transcriptional alterations','stem cell exhaustion'"
+NOTCH2,'sterile inflammation'
+NOTCH3,
+NOTCH4,
+NOX4,"'accumulation of reactive oxygen species','sterile inflammation'"
+NPC1,'TOR pathway dysregulation'
+NPM1,"'nuclear DNA instability','chromatin remodeling','senescent cells accumulation'"
+NR1D1,'degradation of proteolytic systems'
+NR1D2,
+NR2C2,
+NR2F2,
+NR3C1,"'intercellular communication impairment','sterile inflammation'"
+NR4A1,'transcriptional alterations'
+NR4A2,"'intercellular communication impairment','transcriptional alterations'"
+NR4A3,
+NRCAM,
+NRG1,"'transcriptional alterations','intercellular communication impairment','stem cell exhaustion'"
+NRIP1,'transcriptional alterations'
+NRM,
+NRXN1,
+NSF,
+NSG1,'intercellular communication impairment'
+NT5C2,
+NTMT1,'alterations in histone modifications'
+NUDT1,"'nuclear DNA instability','intercellular communication impairment'"
+NUDT12,
+NUDT21,
+NUDT4,
+NUDT6,
+NUDT8,
+NUMA1,'nuclear architecture impairment'
+NUP153,'nuclear architecture impairment'
+NUP188,
+NUP43,
+NUP50,
+NUP58,
+NUP62,'senescent cells accumulation'
+NUP88,
+NUP98,"'degradation of proteolytic systems','nuclear architecture impairment'"
+NUSAP1,'nuclear DNA instability'
+NUTF2,
+NXT2,
+OAS2,
+OCRL,
+OFD1,
+OGFOD2,'accumulation of reactive oxygen species'
+OGG1,"'sterile inflammation','nuclear DNA instability'"
+OGT,"'impairment of the mitochondrial integrity and biogenesis','degradation of proteolytic systems','alterations in histone modifications'"
+OLFM1,
+OLFM4,
+OLIG2,
+OPN3,
+OR10C1,
+ORC5,
+OSBPL3,
+OSBPL8,
+OSBPL9,
+OTOL1,'changes in the extracellular matrix structure'
+OTUD4,'degradation of proteolytic systems'
+OXA1L,'impairment of the mitochondrial integrity and biogenesis'
+P2RX5,
+P2RY14,
+PABPC4,
+PACS1,
+PAFAH1B1,"'intercellular communication impairment','stem cell exhaustion','nuclear architecture impairment'"
+PAFAH1B3,
+PAIP1,
+PAK1,'chromatin remodeling'
+PAK1IP1,
+PALLD,
+PAM,'accumulation of reactive oxygen species'
+PANK3,
+PANK4,
+PANX1,'intercellular communication impairment'
+PANX2,'intercellular communication impairment'
+PAPOLA,
+PAPPA,'degradation of proteolytic systems'
+PAPSS1,
+PAQR9,
+PARD6A,
+PARK7,"'accumulation of reactive oxygen species','nuclear DNA instability','degradation of proteolytic systems','sterile inflammation','impairment of the mitochondrial integrity and biogenesis','alterations in histone modifications'"
+PARP1,"'impairment of the mitochondrial integrity and biogenesis','mitochondrial DNA instability','nuclear DNA instability','telomere attrition','transcriptional alterations','degradation of proteolytic systems','alterations in DNA methylation'"
+PARVG,
+PATZ1,
+PAWR,'senescent cells accumulation'
+PBXIP1,"'sterile inflammation','changes in the extracellular matrix structure','alterations in histone modifications'"
+PCBD1,'accumulation of reactive oxygen species'
+PCBD2,'accumulation of reactive oxygen species'
+PCCA,
+PCDH17,
+PCGF2,'alterations in histone modifications'
+PCK1,'intercellular communication impairment'
+PCMT1,
+PCNA,"'nuclear DNA instability','telomere attrition'"
+PCNT,
+PCSK9,"'intercellular communication impairment','degradation of proteolytic systems'"
+PCTP,
+PDCD4,
+PDE3B,
+PDE4A,
+PDE4B,
+PDE4D,
+PDE4DIP,
+PDE9A,
+PDGFB,"'intercellular communication impairment','accumulation of reactive oxygen species'"
+PDGFRA,
+PDGFRB,
+PDHA1,'accumulation of reactive oxygen species'
+PDHB,'accumulation of reactive oxygen species'
+PDK1,
+PDK3,
+PDLIM5,
+PDS5A,'nuclear DNA instability'
+PDSS1,
+PECAM1,
+PECR,'accumulation of reactive oxygen species'
+PEDS1,'accumulation of reactive oxygen species'
+PENK,'intercellular communication impairment'
+PER2,'alterations in histone modifications'
+PERP,'degradation of proteolytic systems'
+PET117,
+PEX1,
+PEX16,
+PEX5,"'impairment of proteins folding and stability','impairment of the mitochondrial integrity and biogenesis'"
+PFDN4,
+PFKFB1,
+PFKM,
+PGGT1B,
+PGK1,"'accumulation of reactive oxygen species','degradation of proteolytic systems'"
+PGM5,
+PGP,
+PGPEP1,'degradation of proteolytic systems'
+PHF20,'alterations in histone modifications'
+PHF3,'transcriptional alterations'
+PHLDA1,
+PHLPP1,
+PHTF2,
+PICALM,
+PIERCE1,
+PIGK,'degradation of proteolytic systems'
+PIGP,
+PIK3C2A,'INS/IGF-1 pathway dysregulation'
+PIK3CA,"'TOR pathway dysregulation','INS/IGF-1 pathway dysregulation','alterations in DNA methylation'"
+PIK3CB,
+PIK3CD,'sterile inflammation'
+PIK3R1,"'INS/IGF-1 pathway dysregulation','transcriptional alterations'"
+PIN1,
+PIP4K2B,
+PITPNA,
+PITPNB,'nuclear architecture impairment'
+PITPNM1,
+PKHD1,'TOR pathway dysregulation'
+PKM,
+PKN2,
+PLA2G4B,'sterile inflammation'
+PLAG1,'transcriptional alterations'
+PLAGL1,
+PLAU,'degradation of proteolytic systems'
+PLCB1,'INS/IGF-1 pathway dysregulation'
+PLCB4,
+PLCE1,
+PLCG2,
+PLCH1,
+PLCL1,'intercellular communication impairment'
+PLCL2,'intercellular communication impairment'
+PLD3,'sterile inflammation'
+PLEK,
+PLIN3,'intercellular communication impairment'
+PLP1,"'sterile inflammation','intercellular communication impairment'"
+PLPP1,
+PLSCR3,
+PLXNB1,
+PLXNC1,
+PMAIP1,"'impairment of the mitochondrial integrity and biogenesis','degradation of proteolytic systems','intercellular communication impairment','accumulation of reactive oxygen species'"
+PMCH,'intercellular communication impairment'
+PMF1,'transcriptional alterations'
+PML,"'nuclear architecture impairment','degradation of proteolytic systems','senescent cells accumulation'"
+PMP22,'intercellular communication impairment'
+PNKP,'nuclear DNA instability'
+PNPLA6,
+PODXL,
+POLA1,'nuclear DNA instability'
+POLB,"'nuclear DNA instability','sterile inflammation'"
+POLD1,'nuclear DNA instability'
+POLD4,
+POLE4,
+POLG,
+POLI,'nuclear DNA instability'
+POLR1F,'nuclear DNA instability'
+POLR2J2,"'transcriptional alterations','nuclear DNA instability'"
+POLR3K,"'transcriptional alterations','nuclear DNA instability'"
+POLRMT,"'transcriptional alterations','impairment of the mitochondrial integrity and biogenesis'"
+POM121C,
+POMT1,
+PON1,
+PON2,
+POP5,
+PORCN,
+POU1F1,
+POU5F1,'stem cell exhaustion'
+PPARA,'intercellular communication impairment'
+PPARG,'transcriptional alterations'
+PPARGC1A,'impairment of the mitochondrial integrity and biogenesis'
+PPFIA1,
+PPIA,
+PPIC,
+PPIF,'impairment of the mitochondrial integrity and biogenesis'
+PPM1B,
+PPM1D,"'alterations in DNA methylation','intercellular communication impairment','chromatin remodeling'"
+PPM1E,
+PPM1H,
+PPP1CA,
+PPP1R13B,
+PPP1R2,
+PPP2R1A,'nuclear DNA instability'
+PPP2R2C,
+PPP2R5C,'degradation of proteolytic systems'
+PPP3R1,
+PRDX1,'accumulation of reactive oxygen species'
+PRDX3,"'accumulation of reactive oxygen species','impairment of the mitochondrial integrity and biogenesis'"
+PRDX6,'accumulation of reactive oxygen species'
+PREPL,'degradation of proteolytic systems'
+PRIM1,'nuclear DNA instability'
+PRKACB,'AMPK pathway dysregulation'
+PRKAG1,"'AMPK pathway dysregulation','intercellular communication impairment'"
+PRKAR1A,'AMPK pathway dysregulation'
+PRKAR2A,'AMPK pathway dysregulation'
+PRKAR2B,'AMPK pathway dysregulation'
+PRKCA,"'nuclear architecture impairment','alterations in histone modifications'"
+PRKCB,"'nuclear architecture impairment','alterations in histone modifications'"
+PRKCD,'senescent cells accumulation'
+PRKCG,'intercellular communication impairment'
+PRKCH,
+PRKCI,
+PRKCQ,"'degradation of proteolytic systems','sterile inflammation'"
+PRKCZ,'sterile inflammation'
+PRKD3,
+PRKDC,"'nuclear DNA instability','telomere attrition'"
+PRL,
+PRMT2,'alterations in histone modifications'
+PRNP,
+PROP1,
+PROX2,
+PRPF3,
+PRPF31,
+PRPF40A,
+PRPS1,
+PRR5,"'intercellular communication impairment','TOR pathway dysregulation'"
+PRR5L,'TOR pathway dysregulation'
+PSEN1,'degradation of proteolytic systems'
+PSG7,
+PSMB4,'degradation of proteolytic systems'
+PSMC6,'degradation of proteolytic systems'
+PSMD5,
+PSME3IP1,
+PSORS1C3,
+PSRC1,
+PTBP1,
+PTBP3,
+PTEN,"'intercellular communication impairment','senescent cells accumulation'"
+PTGDR,'sterile inflammation'
+PTGER2,'sterile inflammation'
+PTGES2,'accumulation of reactive oxygen species'
+PTGR1,'accumulation of reactive oxygen species'
+PTGS2,"'accumulation of reactive oxygen species','sterile inflammation'"
+PTK2,
+PTP4A2,
+PTPN1,'INS/IGF-1 pathway dysregulation'
+PTPN11,
+PTPN3,
+PTPN6,
+PTPRE,
+PTPRJ,
+PTPRK,
+PTPRM,
+PTTG1,'nuclear DNA instability'
+PUM2,"'impairment of the mitochondrial integrity and biogenesis','nuclear DNA instability'"
+PXN,'transcriptional alterations'
+PYCR1,'accumulation of reactive oxygen species'
+PYHIN1,
+QKI,
+QPCT,
+QRSL1,'impairment of the mitochondrial integrity and biogenesis'
+QSOX1,"'accumulation of reactive oxygen species','changes in the extracellular matrix structure'"
+RAB10,
+RAB13,
+RAB18,
+RAB1A,
+RAB21,
+RAB2A,
+RAB33A,
+RAB33B,
+RAB3A,"'impairment of the mitochondrial integrity and biogenesis','intercellular communication impairment'"
+RAB40C,
+RAB4A,
+RAB5A,
+RAB6A,
+RABEP1,
+RABEP2,
+RABGGTA,
+RABGGTB,
+RAC2,
+RAD21,'nuclear DNA instability'
+RAD23A,"'nuclear DNA instability','degradation of proteolytic systems'"
+RAD23B,"'nuclear DNA instability','degradation of proteolytic systems'"
+RAD50,"'nuclear DNA instability','telomere attrition'"
+RAD51,"'nuclear DNA instability','telomere attrition','alterations in histone modifications'"
+RAD51B,'nuclear DNA instability'
+RAD52,'nuclear DNA instability'
+RAD54B,
+RAE1,'nuclear DNA instability'
+RALB,'intercellular communication impairment'
+RALGAPA1,
+RALY,'transcriptional alterations'
+RAMP1,
+RAN,'nuclear DNA instability'
+RANBP9,
+RAP1B,
+RAP1GAP,
+RAP2A,
+RAPGEF4,
+RARA,'transcriptional alterations'
+RASA3,
+RASA4,
+RASGRP2,
+RASIP1,
+RASSF2,
+RB1,"'chromatin remodeling','transcriptional alterations'"
+RBBP4,"'chromatin remodeling','alterations in histone modifications'"
+RBFOX1,
+RBFOX2,
+RBL2,
+RBM15,
+RBM18,
+RBM22,
+RBM23,
+RBM3,
+RBM38,
+RBM39,
+RBM5,
+RBM7,
+RBM8A,
+RBMS1,
+RBMX,"'transcriptional alterations','degradation of proteolytic systems'"
+RBPJ,"'sterile inflammation','stem cell exhaustion'"
+RCAN3,
+RCOR3,'alterations in histone modifications'
+RDH5,'accumulation of reactive oxygen species'
+RECQL4,"'nuclear DNA instability','telomere attrition'"
+REL,'sterile inflammation'
+RELA,"'transcriptional alterations','sterile inflammation'"
+RELN,"'degradation of proteolytic systems','TOR pathway dysregulation'"
+RET,'degradation of proteolytic systems'
+RFTN1,
+RFX1,
+RFX7,
+RGL1,
+RGN,
+RGS20,
+RGS4,
+RGS7,
+RHOA,
+RHOB,
+RHOBTB3,
+RHOH,
+RHOT1,'impairment of the mitochondrial integrity and biogenesis'
+RIC8B,
+RICTOR,"'intercellular communication impairment','TOR pathway dysregulation'"
+RIN1,
+RIN2,
+RIN3,
+RING1,"'chromatin remodeling','alterations in histone modifications'"
+RIPOR2,
+RLF,"'alterations in DNA methylation','alterations in histone modifications'"
+RNASE1,
+RNF103,'degradation of proteolytic systems'
+RNF114,'degradation of proteolytic systems'
+RNF123,'degradation of proteolytic systems'
+RNF144A,'degradation of proteolytic systems'
+RNF5,'degradation of proteolytic systems'
+RNF6,'degradation of proteolytic systems'
+RNGTT,
+ROGDI,
+RP1,
+RPA1,"'nuclear DNA instability','telomere attrition'"
+RPA3,"'nuclear DNA instability','telomere attrition'"
+RPL10,
+RPL17,
+RPL22,
+RPL28,
+RPL3,
+RPL31,
+RPN1,
+RPP25L,
+RPS21,
+RPS26,
+RPS3A,
+RPS6KA3,'intercellular communication impairment'
+RPS6KA5,"'sterile inflammation','alterations in histone modifications'"
+RPS6KB1,'TOR pathway dysregulation'
+RPS6KC1,
+RPTOR,"'intercellular communication impairment','TOR pathway dysregulation'"
+RRAGD,"'TOR pathway dysregulation','intercellular communication impairment'"
+RRBP1,
+RRM1,"'accumulation of reactive oxygen species','mitochondrial DNA instability','nuclear DNA instability'"
+RRP1B,
+RSL1D1,'senescent cells accumulation'
+RTCA,
+RTN4,'nuclear architecture impairment'
+RTN4IP1,'accumulation of reactive oxygen species'
+RTTN,
+RUNX3,
+RWDD1,
+RXRA,'transcriptional alterations'
+RXRG,
+RYK,
+RYR1,
+S100A12,'sterile inflammation'
+S100A4,
+S100A8,"'sterile inflammation','intercellular communication impairment'"
+S100A9,"'sterile inflammation','intercellular communication impairment'"
+S100B,
+S1PR1,
+SACS,
+SAFB,
+SALL2,
+SAMM50,'impairment of the mitochondrial integrity and biogenesis'
+SATB1,'chromatin remodeling'
+SBDS,
+SCAF11,
+SCAF8,
+SCAMP1,
+SCAND1,
+SCAPER,
+SCD,'accumulation of reactive oxygen species'
+SCML1,
+SCN10A,
+SCN2B,'intercellular communication impairment'
+SCN3A,
+SCN4B,
+SCP2,
+SCPEP1,'degradation of proteolytic systems'
+SDC2,
+SDC4,
+SDHAF3,
+SDHB,'accumulation of reactive oxygen species'
+SDHC,'accumulation of reactive oxygen species'
+SEC23A,
+SEC61A1,
+SEC63,
+SEL1L3,
+SELENOM,'accumulation of reactive oxygen species'
+SELENOP,
+SELL,
+SELPLG,
+SEMA3B,'intercellular communication impairment'
+SEMA6D,
+SENP7,'degradation of proteolytic systems'
+SEPTIN10,
+SEPTIN2,
+SEPTIN4,
+SEPTIN6,
+SERBP1,'nuclear architecture impairment'
+SERINC3,
+SERPINA4,
+SERPINE1,'senescent cells accumulation'
+SERPINF1,
+SERTAD2,
+SETD9,
+SF3A1,
+SF3B2,
+SFPQ,"'nuclear DNA instability','alterations in histone modifications'"
+SFRP1,"'intercellular communication impairment','stem cell exhaustion'"
+SFRP2,'intercellular communication impairment'
+SFXN4,
+SGK1,
+SGPP1,
+SGTA,'degradation of proteolytic systems'
+SH2B3,'stem cell exhaustion'
+SH2D1A,'intercellular communication impairment'
+SH3BP5,
+SH3KBP1,'intercellular communication impairment'
+SHC1,'INS/IGF-1 pathway dysregulation'
+SIAH1,'degradation of proteolytic systems'
+SIGLEC12,
+SIN3A,'alterations in histone modifications'
+SIRPA,
+SIRT1,"'nuclear DNA instability','chromatin remodeling','intercellular communication impairment','alterations in histone modifications','TOR pathway dysregulation','degradation of proteolytic systems','senescent cells accumulation','AMPK pathway dysregulation','SIRT pathway dysregulation'"
+SIRT2,"'chromatin remodeling','alterations in histone modifications','degradation of proteolytic systems','SIRT pathway dysregulation'"
+SIRT3,"'alterations in histone modifications','SIRT pathway dysregulation'"
+SIRT4,"'impairment of the mitochondrial integrity and biogenesis','SIRT pathway dysregulation'"
+SIRT5,"'impairment of the mitochondrial integrity and biogenesis','SIRT pathway dysregulation'"
+SIRT6,"'nuclear DNA instability','chromatin remodeling','senescent cells accumulation','alterations in histone modifications','SIRT pathway dysregulation'"
+SIRT7,"'nuclear DNA instability','transcriptional alterations','alterations in histone modifications','chromatin remodeling','SIRT pathway dysregulation'"
+SIT1,
+SKAP2,
+SKIC2,
+SKIC8,'alterations in histone modifications'
+SKIL,
+SLAMF7,
+SLBP,
+SLC12A2,'intercellular communication impairment'
+SLC12A6,'intercellular communication impairment'
+SLC13A1,
+SLC14A1,
+SLC15A4,
+SLC16A14,
+SLC16A3,
+SLC19A1,
+SLC25A11,
+SLC25A12,
+SLC25A19,
+SLC25A27,
+SLC25A28,
+SLC26A6,
+SLC27A3,
+SLC2A13,
+SLC38A1,
+SLC39A11,
+SLC41A1,
+SLC43A2,
+SLC44A2,
+SLC4A4,
+SLC6A3,
+SLC7A5,'intercellular communication impairment'
+SLC7A6,
+SLC9A2,
+SLCO3A1,
+SLPI,
+SLU7,
+SLX1B,"'nuclear DNA instability','telomere attrition'"
+SMAD2,'transcriptional alterations'
+SMAD3,
+SMAD4,"'transcriptional alterations','stem cell exhaustion'"
+SMARCA4,'chromatin remodeling'
+SMARCA5,"'chromatin remodeling','nuclear DNA instability','alterations in DNA methylation'"
+SMARCE1,'chromatin remodeling'
+SMC3,"'nuclear DNA instability','stem cell exhaustion'"
+SMC4,'nuclear DNA instability'
+SMC5,"'nuclear DNA instability','telomere attrition','stem cell exhaustion','senescent cells accumulation'"
+SMCHD1,"'nuclear DNA instability','chromatin remodeling'"
+SMNDC1,
+SMOC1,
+SMOC2,
+SNAI1,'chromatin remodeling'
+SNAI2,
+SNAP23,
+SNAPC1,'transcriptional alterations'
+SNCA,"'accumulation of reactive oxygen species','impairment of the mitochondrial integrity and biogenesis','intercellular communication impairment'"
+SNCG,'intercellular communication impairment'
+SNED1,
+SNRNP27,
+SNRNP70,
+SNRPN,
+SNTG2,
+SNW1,
+SOCS2,'INS/IGF-1 pathway dysregulation'
+SOCS3,
+SOD1,'accumulation of reactive oxygen species'
+SOD2,"'accumulation of reactive oxygen species','impairment of the mitochondrial integrity and biogenesis'"
+SOD3,'accumulation of reactive oxygen species'
+SON,
+SORD,'accumulation of reactive oxygen species'
+SORT1,
+SOS2,'INS/IGF-1 pathway dysregulation'
+SOX13,
+SOX15,
+SOX2,'stem cell exhaustion'
+SOX4,'stem cell exhaustion'
+SOX6,
+SP1,'intercellular communication impairment'
+SP100,"'nuclear DNA instability','telomere attrition'"
+SPATS2L,
+SPHK2,"'alterations in histone modifications','chromatin remodeling'"
+SPON1,"'changes in the extracellular matrix structure','degradation of proteolytic systems'"
+SPP1,'sterile inflammation'
+SPRTN,"'degradation of proteolytic systems','nuclear DNA instability'"
+SPRY2,
+SPTBN1,
+SPTSSA,
+SPZ1,
+SQSTM1,"'impairment of the mitochondrial integrity and biogenesis','transcriptional alterations','degradation of proteolytic systems'"
+SREK1,
+SRI,
+SRP54,
+SRP68,
+SRP72,
+SRRM2,
+SRSF1,
+SRSF10,
+SRSF11,
+SRSF5,
+SRSF6,
+SSNA1,
+SST,'intercellular communication impairment'
+SSTR1,
+SSTR2,
+SSTR3,'intercellular communication impairment'
+SSTR5,
+ST13,'impairment of proteins folding and stability'
+ST6GAL1,
+ST6GALNAC2,
+ST8SIA1,
+ST8SIA5,
+STAG1,'nuclear DNA instability'
+STAG2,'nuclear DNA instability'
+STARD13,
+STAT3,"'sterile inflammation','stem cell exhaustion','transcriptional alterations'"
+STAT5A,
+STAT5B,'transcriptional alterations'
+STK10,
+STK17A,
+STK24,'intercellular communication impairment'
+STK25,
+STK38,
+STK4,
+STOM,
+STRADB,
+STUB1,"'nuclear DNA instability','degradation of proteolytic systems'"
+STX5,
+STX6,
+STX7,
+STYX,
+SUB1,
+SUCLA2,
+SUCLG1,
+SUMO1,"'nuclear DNA instability','nuclear architecture impairment'"
+SUMO2,
+SUMO3,
+SUN1,"'nuclear DNA instability','nuclear architecture impairment'"
+SUPV3L1,"'impairment of the mitochondrial integrity and biogenesis','nuclear DNA instability'"
+SURF1,'accumulation of reactive oxygen species'
+SVEP1,
+SYAP1,'TOR pathway dysregulation'
+SYDE2,
+SYN2,'intercellular communication impairment'
+SYNGR1,
+TAF5,"'alterations in histone modifications','degradation of proteolytic systems','transcriptional alterations'"
+TAF6L,"'chromatin remodeling','alterations in histone modifications','degradation of proteolytic systems'"
+TAF9,"'alterations in histone modifications','degradation of proteolytic systems','transcriptional alterations'"
+TAFA5,
+TARDBP,
+TARS1,
+TAS2R16,
+TAX1BP3,'degradation of proteolytic systems'
+TBC1D1,
+TBC1D8B,
+TBC1D9B,
+TBCA,
+TBK1,'sterile inflammation'
+TBKBP1,
+TBL1X,"'degradation of proteolytic systems','alterations in histone modifications'"
+TBL3,
+TBP,'transcriptional alterations'
+TBX3,"'transcriptional alterations','stem cell exhaustion','senescent cells accumulation'"
+TBXA2R,'sterile inflammation'
+TCAF1,
+TCEAL1,
+TCERG1,'transcriptional alterations'
+TCF3,
+TCIRG1,'sterile inflammation'
+TELO2,"'TOR pathway dysregulation','nuclear DNA instability','telomere attrition'"
+TEP1,"'nuclear DNA instability','telomere attrition'"
+TERC,"'nuclear DNA instability','telomere attrition','impairment of the mitochondrial integrity and biogenesis','senescent cells accumulation'"
+TERF1,"'nuclear DNA instability','telomere attrition'"
+TERF2,"'nuclear DNA instability','telomere attrition','senescent cells accumulation'"
+TERT,"'nuclear DNA instability','telomere attrition','impairment of the mitochondrial integrity and biogenesis','senescent cells accumulation'"
+TESK1,
+TFAP2A,
+TFDP1,'transcriptional alterations'
+TFDP2,
+TGFA,
+TGFB1,"'sterile inflammation','degradation of proteolytic systems','changes in the extracellular matrix structure'"
+TGFBR1,
+TGFBR2,
+TGFBR3,
+TGIF1,
+TGM2,"'degradation of proteolytic systems','alterations in histone modifications'"
+TGOLN2,
+TH,"'accumulation of reactive oxygen species','intercellular communication impairment'"
+THY1,'intercellular communication impairment'
+TIAM1,
+TICAM1,'sterile inflammation'
+TIMELESS,'nuclear DNA instability'
+TIMM17A,
+TIMM21,
+TIMM8A,'impairment of the mitochondrial integrity and biogenesis'
+TIMP1,
+TIMP2,
+TIRAP,'sterile inflammation'
+TJP2,
+TLE1,
+TLN1,
+TLN2,
+TLR1,'sterile inflammation'
+TLR10,'sterile inflammation'
+TLR2,'sterile inflammation'
+TLR3,
+TLR4,'sterile inflammation'
+TLR5,'sterile inflammation'
+TLR7,'sterile inflammation'
+TLR8,'sterile inflammation'
+TM2D1,
+TM4SF1,
+TMBIM4,
+TMBIM6,
+TMEM123,
+TMEM131L,
+TMEM167B,
+TMEM18,
+TMEM185A,
+TMEM47,
+TMEM9,
+TMPO,
+TMPRSS2,'degradation of proteolytic systems'
+TMTC2,
+TMX1,'accumulation of reactive oxygen species'
+TNF,'sterile inflammation'
+TNFAIP8,
+TNFRSF10B,
+TNFRSF21,
+TNFRSF4,'sterile inflammation'
+TNFSF14,
+TNFSF8,'intercellular communication impairment'
+TNKS2,
+TNNI3K,'intercellular communication impairment'
+TNNT1,
+TNRC6A,'intercellular communication impairment'
+TOB1,
+TOLLIP,"'sterile inflammation','degradation of proteolytic systems'"
+TOMM20,'impairment of the mitochondrial integrity and biogenesis'
+TOMM40,'impairment of the mitochondrial integrity and biogenesis'
+TOP1,"'nuclear DNA instability','chromatin remodeling'"
+TOP2B,'nuclear DNA instability'
+TOP3B,'nuclear DNA instability'
+TOPORS,"'transcriptional alterations','degradation of proteolytic systems'"
+TOX,
+TP53,"'intercellular communication impairment','impairment of the mitochondrial integrity and biogenesis','nuclear DNA instability','transcriptional alterations','mitochondrial DNA instability','chromatin remodeling','stem cell exhaustion','accumulation of reactive oxygen species','senescent cells accumulation'"
+TP53BP1,"'nuclear DNA instability','transcriptional alterations'"
+TP53I11,
+TP53INP1,
+TP53TG1,
+TP63,"'chromatin remodeling','transcriptional alterations','intercellular communication impairment','stem cell exhaustion','senescent cells accumulation'"
+TP73,'nuclear DNA instability'
+TPBG,'intercellular communication impairment'
+TPD52L2,
+TPI1,
+TPM3,
+TPP2,'degradation of proteolytic systems'
+TPPP,
+TPPP3,
+TPST2,
+TRAF1,
+TRAK2,'impairment of the mitochondrial integrity and biogenesis'
+TRAM2,
+TRAP1,'impairment of proteins folding and stability'
+TRAPPC10,
+TRIB2,
+TRIM23,
+TRIM33,
+TRIM38,'degradation of proteolytic systems'
+TRIM55,
+TRIM58,'degradation of proteolytic systems'
+TRIM72,"'INS/IGF-1 pathway dysregulation','degradation of proteolytic systems'"
+TRIO,
+TRIOBP,
+TRIP12,"'nuclear DNA instability','degradation of proteolytic systems'"
+TRMT112,'alterations in histone modifications'
+TRPV1,'sterile inflammation'
+TSC22D1,'transcriptional alterations'
+TSC22D3,
+TSNAX,
+TSPAN5,
+TSPAN6,
+TSPYL2,'chromatin remodeling'
+TST,
+TTC4,
+TTC9,
+TTF2,"'chromatin remodeling','nuclear DNA instability'"
+TTLL12,
+TTR,
+TUBA3C,
+TUBB,
+TUBB2A,
+TUBB6,
+TWF1,
+TXK,
+TXN,'accumulation of reactive oxygen species'
+TXNDC11,
+TXNDC9,
+TXNIP,
+TXNRD1,'accumulation of reactive oxygen species'
+TYMS,
+U2AF1,
+UBA2,
+UBE2B,"'nuclear DNA instability','degradation of proteolytic systems','alterations in histone modifications'"
+UBE2D2,'degradation of proteolytic systems'
+UBE2D3,"'nuclear DNA instability','degradation of proteolytic systems'"
+UBE2H,'degradation of proteolytic systems'
+UBE2M,
+UBE2S,'degradation of proteolytic systems'
+UBL3,
+UBL5,
+UBP1,
+UBR5,'nuclear DNA instability'
+UCHL1,"'intercellular communication impairment','degradation of proteolytic systems'"
+UCHL3,'degradation of proteolytic systems'
+UCP1,
+UCP2,'intercellular communication impairment'
+UCP3,
+UGP2,
+UPF1,"'nuclear DNA instability','telomere attrition'"
+UPF2,
+UPF3A,
+UQCRB,
+UQCRC1,'accumulation of reactive oxygen species'
+UQCRC2,'degradation of proteolytic systems'
+UQCRFS1,'accumulation of reactive oxygen species'
+UQCRH,'accumulation of reactive oxygen species'
+URM1,
+UROS,
+USE1,
+USF2,'intercellular communication impairment'
+USO1,
+USP1,"'nuclear DNA instability','degradation of proteolytic systems'"
+USP10,"'degradation of proteolytic systems','nuclear DNA instability'"
+USP13,'degradation of proteolytic systems'
+USP14,"'intercellular communication impairment','degradation of proteolytic systems'"
+USP2-AS1,
+USP25,'degradation of proteolytic systems'
+USP3,"'nuclear DNA instability','degradation of proteolytic systems','alterations in histone modifications'"
+USP42,'degradation of proteolytic systems'
+USP46,'degradation of proteolytic systems'
+USP54,'degradation of proteolytic systems'
+USP6,'degradation of proteolytic systems'
+UTS2,'intercellular communication impairment'
+UXS1,
+UXT,'transcriptional alterations'
+VAMP3,
+VAMP4,
+VASH1,"'senescent cells accumulation','degradation of proteolytic systems'"
+VAT1,'accumulation of reactive oxygen species'
+VCAN,'changes in the extracellular matrix structure'
+VCL,
+VCP,"'nuclear DNA instability','degradation of proteolytic systems'"
+VDAC1P1,
+VEGFA,
+VEGFB,
+VEGFC,
+VEGFD,
+VGLL4,
+VHL,"'transcriptional alterations','degradation of proteolytic systems'"
+VIM,
+VLDLR,
+VPS26A,
+VRK2,
+VRK3,
+VWF,'changes in the extracellular matrix structure'
+WDR12,
+WDR33,'nuclear DNA instability'
+WDR4,
+WDR6,
+WDR77,'alterations in histone modifications'
+WDR87,
+WDR91,'degradation of proteolytic systems'
+WFS1,'degradation of proteolytic systems'
+WIF1,
+WIPF1,'impairment of proteins folding and stability'
+WNK1,
+WNT1,"'intercellular communication impairment','degradation of proteolytic systems','INS/IGF-1 pathway dysregulation','senescent cells accumulation'"
+WNT10A,'stem cell exhaustion'
+WNT10B,'transcriptional alterations'
+WNT11,
+WNT16,'senescent cells accumulation'
+WNT2,'intercellular communication impairment'
+WNT2B,'intercellular communication impairment'
+WNT3,
+WNT3A,"'transcriptional alterations','stem cell exhaustion'"
+WNT4,'intercellular communication impairment'
+WNT5A,'intercellular communication impairment'
+WNT5B,
+WNT6,'intercellular communication impairment'
+WNT7A,'stem cell exhaustion'
+WNT7B,
+WNT9A,
+WNT9B,"'intercellular communication impairment','stem cell exhaustion'"
+WRN,"'intercellular communication impairment','nuclear DNA instability','telomere attrition','senescent cells accumulation'"
+WSB1,
+WWOX,'accumulation of reactive oxygen species'
+XBP1,"'transcriptional alterations','degradation of proteolytic systems','intercellular communication impairment'"
+XPA,'nuclear DNA instability'
+XPO7,
+XRCC1,"'nuclear DNA instability','telomere attrition'"
+XRCC2,'nuclear DNA instability'
+XRCC5,"'nuclear DNA instability','stem cell exhaustion','telomere attrition'"
+XRCC6,"'nuclear DNA instability','telomere attrition'"
+YAP1,'stem cell exhaustion'
+YES1,
+YWHAB,
+YWHAE,
+YWHAZ,
+YY1,"'nuclear DNA instability','telomere attrition','chromatin remodeling'"
+ZBTB1,"'nuclear DNA instability','chromatin remodeling','transcriptional alterations'"
+ZBTB18,
+ZBTB25,
+ZBTB43,
+ZBTB44,
+ZBTB8A,
+ZBTB8OS,
+ZC3H7A,
+ZC3HAV1,
+ZC3HC1,
+ZCCHC14,
+ZCCHC3,
+ZCRB1,
+ZEB1,'transcriptional alterations'
+ZEB2,'transcriptional alterations'
+ZER1,'degradation of proteolytic systems'
+ZFAND2A,'degradation of proteolytic systems'
+ZFHX3,
+ZFP36,'stem cell exhaustion'
+ZFP36L1,
+ZFP36L2,'stem cell exhaustion'
+ZFP64,
+ZFP69B,
+ZFTRAF1,
+ZFYVE28,
+ZFYVE9,
+ZHX2,'stem cell exhaustion'
+ZMAT3,
+ZMIZ1,'senescent cells accumulation'
+ZMIZ2,
+ZMPSTE24,"'nuclear DNA instability','degradation of proteolytic systems','nuclear architecture impairment','TOR pathway dysregulation','alterations in histone modifications','alterations in DNA methylation','AMPK pathway dysregulation','senescent cells accumulation'"
+ZNF131,
+ZNF136,
+ZNF141,'transcriptional alterations'
+ZNF19,
+ZNF22,
+ZNF226,
+ZNF232,
+ZNF264,
+ZNF266,
+ZNF267,
+ZNF273,
+ZNF274,
+ZNF318,
+ZNF32,
+ZNF415,
+ZNF419,
+ZNF423,
+ZNF430,
+ZNF454,
+ZNF532,
+ZNF557,
+ZNF571,
+ZNF576,
+ZNF577,
+ZNF586,
+ZNF592,
+ZNF652,
+ZNF785,
+ZNF91,
+ZSCAN18,
+ZSCAN5A,
+ZW10,'nuclear DNA instability'
