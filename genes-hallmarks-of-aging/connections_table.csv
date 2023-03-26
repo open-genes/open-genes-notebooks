@@ -1,0 +1,193 @@
+"",disease&hallmark,HGNC
+0,Alzheimer disease/accumulation of reactive oxygen species,NOS3
+1,Alzheimer disease/changes in the extracellular matrix structure,ADAM10
+2,Alzheimer disease/degradation of proteolytic systems,"PLAU,PSEN1,ADAM10,BLMH,ACE"
+3,Alzheimer disease/impairment of the mitochondrial integrity and biogenesis,NOS3
+4,Alzheimer disease/intercellular communication impairment,"APOE,ADAM10"
+5,Alzheimer disease/stem cell exhaustion,"A2M,ACE"
+6,Alzheimer disease/sterile inflammation,A2M
+7,Amyotrophic lateral sclerosis/accumulation of reactive oxygen species,SOD1
+8,Amyotrophic lateral sclerosis/degradation of proteolytic systems,"VCP,SQSTM1"
+9,Amyotrophic lateral sclerosis/impairment of the mitochondrial integrity and biogenesis,SQSTM1
+10,Amyotrophic lateral sclerosis/intercellular communication impairment,HNRNPA1
+11,Amyotrophic lateral sclerosis/nuclear DNA instability,VCP
+12,Amyotrophic lateral sclerosis/sterile inflammation,TBK1
+13,Amyotrophic lateral sclerosis/transcriptional alterations,"SQSTM1,FUS"
+14,"Bleeding disorder, platelet-type/INS/IGF-1 pathway dysregulation",ITGB3
+15,"Bleeding disorder, platelet-type/degradation of proteolytic systems",PLAU
+16,"Bleeding disorder, platelet-type/sterile inflammation",TBXA2R
+17,Breast cancer/INS/IGF-1 pathway dysregulation,"AKT1,PIK3CA"
+18,Breast cancer/TOR pathway dysregulation,"ATM,AKT1,PIK3CA"
+19,Breast cancer/accumulation of reactive oxygen species,TP53
+20,Breast cancer/alterations in DNA methylation,"BRCA1,PPM1D,PIK3CA"
+21,Breast cancer/alterations in histone modifications,"ATM,BRCA1,BRCA2,RAD51"
+22,Breast cancer/chromatin remodeling,"TP53,ESR1,PPM1D"
+23,Breast cancer/degradation of proteolytic systems,"AKT1,BRCA1"
+24,Breast cancer/impairment of the mitochondrial integrity and biogenesis,"TP53,AKT1"
+25,Breast cancer/intercellular communication impairment,"TP53,PPM1D,KRAS"
+26,Breast cancer/mitochondrial DNA instability,TP53
+27,Breast cancer/nuclear DNA instability,"TP53,ATM,NBN,BRCA1,BRCA2,RAD51"
+28,Breast cancer/senescent cells accumulation,"TP53,ATM,BRCA2"
+29,Breast cancer/stem cell exhaustion,"TP53,ESR1"
+30,Breast cancer/sterile inflammation,AKT1
+31,Breast cancer/telomere attrition,"ATM,NBN,BRCA2,RAD51"
+32,Breast cancer/transcriptional alterations,"TP53,ESR1"
+33,Cardiac arrhythmia/intercellular communication impairment,"ANK2,AKAP9,CACNA1C,CACNB2"
+34,Cataract/degradation of proteolytic systems,WFS1
+35,Cataract/transcriptional alterations,MAF
+36,Charcot-marie-tooth disease/accumulation of reactive oxygen species,"AIFM1,SURF1"
+37,Charcot-marie-tooth disease/chromatin remodeling,LMNA
+38,Charcot-marie-tooth disease/degradation of proteolytic systems,VCP
+39,Charcot-marie-tooth disease/intercellular communication impairment,"AIFM1,PMP22,KIF1B"
+40,Charcot-marie-tooth disease/nuclear DNA instability,"LMNA,VCP,AIFM1"
+41,Charcot-marie-tooth disease/nuclear architecture impairment,LMNA
+42,Charcot-marie-tooth disease/senescent cells accumulation,LMNA
+43,Colorectal cancer/INS/IGF-1 pathway dysregulation,"AKT1,PIK3CA,APC"
+44,Colorectal cancer/TOR pathway dysregulation,"AKT1,PIK3CA"
+45,Colorectal cancer/accumulation of reactive oxygen species,"TP53,MT-CO1"
+46,Colorectal cancer/alterations in DNA methylation,PIK3CA
+47,Colorectal cancer/alterations in histone modifications,EP300
+48,Colorectal cancer/chromatin remodeling,"TP53,EP300"
+49,Colorectal cancer/degradation of proteolytic systems,"AKT1,CTNNB1,APC"
+50,Colorectal cancer/impairment of the mitochondrial integrity and biogenesis,"TP53,AKT1,BAX"
+51,Colorectal cancer/intercellular communication impairment,"TP53,CTNNB1,FGFR3"
+52,Colorectal cancer/mitochondrial DNA instability,TP53
+53,Colorectal cancer/nuclear DNA instability,"TP53,BUB1B,MLH3"
+54,Colorectal cancer/senescent cells accumulation,TP53
+55,Colorectal cancer/stem cell exhaustion,"TP53,CTNNB1,BRAF"
+56,Colorectal cancer/sterile inflammation,"AKT1,TLR4,TLR2"
+57,Colorectal cancer/transcriptional alterations,"TP53,EP300,CTNNB1"
+58,Diabetes mellitus/INS/IGF-1 pathway dysregulation,"INS,IRS1,PTPN1,IRS2,INSR,AKT2"
+59,Diabetes mellitus/degradation of proteolytic systems,WFS1
+60,Diabetes mellitus/intercellular communication impairment,INS
+61,Diabetes mellitus/sterile inflammation,"INS,IL6"
+62,Diabetes mellitus/transcriptional alterations,"PPARG,HNF4A"
+63,Dilated cardiomyopathy/changes in the extracellular matrix structure,LAMA4
+64,Dilated cardiomyopathy/chromatin remodeling,"LMNA,GATAD1"
+65,Dilated cardiomyopathy/degradation of proteolytic systems,PSEN1
+66,Dilated cardiomyopathy/nuclear DNA instability,LMNA
+67,Dilated cardiomyopathy/nuclear architecture impairment,LMNA
+68,Dilated cardiomyopathy/senescent cells accumulation,LMNA
+69,Fanconi anemia/accumulation of reactive oxygen species,FANCC
+70,Fanconi anemia/alterations in DNA methylation,BRCA1
+71,Fanconi anemia/alterations in histone modifications,"BRCA1,BRCA2"
+72,Fanconi anemia/degradation of proteolytic systems,BRCA1
+73,Fanconi anemia/impairment of the mitochondrial integrity and biogenesis,FANCG
+74,Fanconi anemia/nuclear DNA instability,"BRCA1,BRCA2,ERCC4,FANCG,FANCL,FANCC"
+75,Fanconi anemia/senescent cells accumulation,BRCA2
+76,Fanconi anemia/stem cell exhaustion,FANCC
+77,Fanconi anemia/telomere attrition,"BRCA2,ERCC4"
+78,Gastric cancer/INS/IGF-1 pathway dysregulation,"PIK3CA,APC"
+79,Gastric cancer/TOR pathway dysregulation,PIK3CA
+80,Gastric cancer/alterations in DNA methylation,PIK3CA
+81,Gastric cancer/degradation of proteolytic systems,"APC,CASP10"
+82,Gastric cancer/intercellular communication impairment,"FGFR2,KRAS"
+83,Gastric cancer/stem cell exhaustion,FGFR2
+84,Gastrointestinal stromal tumor/accumulation of reactive oxygen species,"SDHC,MTHFR,MTRR,SDHB"
+85,Gastrointestinal stromal tumor/alterations in DNA methylation,MTRR
+86,Gastrointestinal stromal tumor/chromatin remodeling,MTHFR
+87,Gastrointestinal stromal tumor/intercellular communication impairment,FOLR1
+88,Glioma/accumulation of reactive oxygen species,"TP53,IDH1"
+89,Glioma/alterations in histone modifications,BRCA2
+90,Glioma/chromatin remodeling,TP53
+91,Glioma/impairment of the mitochondrial integrity and biogenesis,TP53
+92,Glioma/intercellular communication impairment,"TP53,PTEN"
+93,Glioma/mitochondrial DNA instability,TP53
+94,Glioma/nuclear DNA instability,"TP53,BRCA2"
+95,Glioma/senescent cells accumulation,"TP53,PTEN,BRCA2"
+96,Glioma/stem cell exhaustion,TP53
+97,Glioma/telomere attrition,BRCA2
+98,Glioma/transcriptional alterations,"TP53,PPARG"
+99,Hemolytic uremic syndrome/degradation of proteolytic systems,"CFB,CFH"
+100,Hemolytic uremic syndrome/sterile inflammation,"C3,C3AR1"
+101,Hepatocellular carcinoma/INS/IGF-1 pathway dysregulation,"PIK3CA,APC,IGF2R"
+102,Hepatocellular carcinoma/TOR pathway dysregulation,PIK3CA
+103,Hepatocellular carcinoma/accumulation of reactive oxygen species,TP53
+104,Hepatocellular carcinoma/alterations in DNA methylation,PIK3CA
+105,Hepatocellular carcinoma/chromatin remodeling,TP53
+106,Hepatocellular carcinoma/degradation of proteolytic systems,"CTNNB1,APC"
+107,Hepatocellular carcinoma/impairment of the mitochondrial integrity and biogenesis,TP53
+108,Hepatocellular carcinoma/intercellular communication impairment,"TP53,CTNNB1"
+109,Hepatocellular carcinoma/mitochondrial DNA instability,TP53
+110,Hepatocellular carcinoma/nuclear DNA instability,TP53
+111,Hepatocellular carcinoma/senescent cells accumulation,TP53
+112,Hepatocellular carcinoma/stem cell exhaustion,"TP53,CTNNB1"
+113,Hepatocellular carcinoma/transcriptional alterations,"TP53,CTNNB1"
+114,Hirschsprung disease/accumulation of reactive oxygen species,DPYD
+115,Hirschsprung disease/alterations in histone modifications,CREBBP
+116,Hirschsprung disease/changes in the extracellular matrix structure,FBN1
+117,Hirschsprung disease/degradation of proteolytic systems,"PLAU,RET"
+118,Hirschsprung disease/stem cell exhaustion,ZHX2
+119,Hirschsprung disease/transcriptional alterations,CREBBP
+120,Leigh syndrome/accumulation of reactive oxygen species,"NDUFA9,SURF1,NDUFS3,NDUFS4"
+121,Leigh syndrome/impairment of the mitochondrial integrity and biogenesis,"BCS1L,COX10"
+122,"Leukemia, acute myeloid/alterations in histone modifications",JAK2
+123,"Leukemia, acute myeloid/chromatin remodeling",NPM1
+124,"Leukemia, acute myeloid/impairment of the mitochondrial integrity and biogenesis","TERT,CEBPA"
+125,"Leukemia, acute myeloid/intercellular communication impairment",KRAS
+126,"Leukemia, acute myeloid/nuclear DNA instability","TERT,NPM1"
+127,"Leukemia, acute myeloid/senescent cells accumulation","TERT,NPM1"
+128,"Leukemia, acute myeloid/telomere attrition",TERT
+129,"Leukemia, acute myeloid/transcriptional alterations","JAK2,MLF1"
+130,Lung cancer/INS/IGF-1 pathway dysregulation,PIK3CA
+131,Lung cancer/TOR pathway dysregulation,PIK3CA
+132,Lung cancer/accumulation of reactive oxygen species,CYP2A6
+133,Lung cancer/alterations in DNA methylation,PIK3CA
+134,Lung cancer/intercellular communication impairment,KRAS
+135,Lung cancer/stem cell exhaustion,BRAF
+136,"Macular degeneration, age-related/changes in the extracellular matrix structure",FBLN5
+137,"Macular degeneration, age-related/degradation of proteolytic systems","HTRA1,C2,CFB,CFH"
+138,"Macular degeneration, age-related/intercellular communication impairment","APOE,CX3CR1"
+139,"Macular degeneration, age-related/sterile inflammation","C3,TLR4"
+140,"Malaria, susceptibility to/accumulation of reactive oxygen species","HBB,G6PD"
+141,"Malaria, susceptibility to/sterile inflammation","TNF,TIRAP"
+142,"Mental retardation, autosomal dominant/alterations in DNA methylation",EHMT1
+143,"Mental retardation, autosomal dominant/alterations in histone modifications","DYRK1A,EHMT1"
+144,"Mental retardation, autosomal dominant/chromatin remodeling","EHMT1,SMARCA4,SMARCE1"
+145,"Mental retardation, autosomal dominant/degradation of proteolytic systems",CTNNB1
+146,"Mental retardation, autosomal dominant/intercellular communication impairment",CTNNB1
+147,"Mental retardation, autosomal dominant/nuclear DNA instability",PPP2R1A
+148,"Mental retardation, autosomal dominant/stem cell exhaustion",CTNNB1
+149,"Mental retardation, autosomal dominant/transcriptional alterations","CTNNB1,DEAF1"
+150,"Myocardial infarction, susceptibility to/INS/IGF-1 pathway dysregulation",ITGB3
+151,"Myocardial infarction, susceptibility to/accumulation of reactive oxygen species",GCLC
+152,"Myocardial infarction, susceptibility to/chromatin remodeling",ESR1
+153,"Myocardial infarction, susceptibility to/degradation of proteolytic systems","LRP8,ACE"
+154,"Myocardial infarction, susceptibility to/impairment of the mitochondrial integrity and biogenesis","GCLC,GCLM"
+155,"Myocardial infarction, susceptibility to/intercellular communication impairment",LRP8
+156,"Myocardial infarction, susceptibility to/stem cell exhaustion","ESR1,ACE"
+157,"Myocardial infarction, susceptibility to/transcriptional alterations",ESR1
+158,Obesity/AMPK pathway dysregulation,ADRB2
+159,Obesity/transcriptional alterations,"PPARG,ADRB2"
+160,Parkinson disease/accumulation of reactive oxygen species,"PARK7,SNCA"
+161,Parkinson disease/alterations in histone modifications,PARK7
+162,Parkinson disease/degradation of proteolytic systems,"UCHL1,HTRA2,PARK7"
+163,Parkinson disease/impairment of the mitochondrial integrity and biogenesis,"MAPT,HTRA2,PARK7,SNCA"
+164,Parkinson disease/intercellular communication impairment,"UCHL1,MAPT,SNCA,NR4A2"
+165,Parkinson disease/nuclear DNA instability,PARK7
+166,Parkinson disease/sterile inflammation,PARK7
+167,Parkinson disease/transcriptional alterations,"TBP,NR4A2"
+168,Prostate cancer/INS/IGF-1 pathway dysregulation,AR
+169,Prostate cancer/alterations in histone modifications,BRCA2
+170,Prostate cancer/intercellular communication impairment,"PTEN,AR"
+171,Prostate cancer/nuclear DNA instability,BRCA2
+172,Prostate cancer/senescent cells accumulation,"PTEN,BRCA2"
+173,Prostate cancer/telomere attrition,BRCA2
+174,Prostate cancer/transcriptional alterations,AR
+175,Retinitis pigmentosa/accumulation of reactive oxygen species,CYGB
+176,Retinitis pigmentosa/degradation of proteolytic systems,TOPORS
+177,Retinitis pigmentosa/transcriptional alterations,TOPORS
+178,Schizophrenia/INS/IGF-1 pathway dysregulation,AKT1
+179,Schizophrenia/TOR pathway dysregulation,AKT1
+180,Schizophrenia/accumulation of reactive oxygen species,MTHFR
+181,Schizophrenia/chromatin remodeling,MTHFR
+182,Schizophrenia/degradation of proteolytic systems,AKT1
+183,Schizophrenia/impairment of the mitochondrial integrity and biogenesis,AKT1
+184,Schizophrenia/intercellular communication impairment,"COMT,HTR2A,SYN2"
+185,Schizophrenia/sterile inflammation,AKT1
+186,Spastic paraplegia/impairment of proteins folding and stability,HSPD1
+187,Spastic paraplegia/impairment of the mitochondrial integrity and biogenesis,HSPD1
+188,Spastic paraplegia/intercellular communication impairment,PLP1
+189,Spastic paraplegia/sterile inflammation,PLP1
+190,Spinocerebellar ataxia/intercellular communication impairment,"CACNA1A,PRKCG"
+191,Spinocerebellar ataxia/transcriptional alterations,TBP
